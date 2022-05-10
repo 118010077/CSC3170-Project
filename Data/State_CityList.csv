@@ -1,0 +1,305 @@
+State,City
+OH,Akron
+CA,Alameda County
+GA,Albany
+NY,Albany
+NM,Albuquerque
+LA,Alexandria
+PA,Allentown
+PA,Altoona
+TX,Amarillo
+AK,Anchorage
+MI,Ann Arbor
+WI,Appleton
+VA,Arlington
+NC,Asheville
+GA,Atlanta
+GA,Augusta
+IL,Aurora
+TX,Austin
+CA,Bakersfield
+MD,Baltimore
+ME,Bangor
+LA,Baton Rouge
+TX,Beaumont
+OR,Bend
+MT,Billings
+NY,Binghamton
+AL,Birmingham
+ND,Bismarck
+IL,Bloomington
+IL,Blue Island
+ID,Boise
+MA,Boston
+CO,Boulder
+FL,Bradenton
+CT,Bridgeport
+NY,Bronx
+TX,Bryan
+NY,Buffalo
+VT,Burlington
+NJ,Camden
+OH,Canton
+MO,Cape Girardeau
+WY,Casper
+IA,Cedar Rapids
+SC,Charleston
+WV,Charleston
+NC,Charlotte
+VA,Charlottesville
+TN,Chattanooga
+IL,Chicago
+CA,Chico
+OH,Cincinnati
+FL,Clearwater
+OH,Cleveland
+CO,Colorado Springs
+MO,Columbia
+SC,Columbia
+GA,Columbus
+OH,Columbus
+CA,Contra Costa County
+TX,Corpus Christi
+KY,Covington
+TX,Dallas
+PA,Danville
+IA,Davenport
+OH,Dayton
+MI,Dearborn
+CO,Denver
+IA,Des Moines
+MI,Detroit
+AL,Dothan
+IA,Dubuque
+MN,Duluth
+NC,Durham
+NY,East Long Island
+TX,El Paso
+IL,Elgin
+NY,Elmira
+OH,Elyria
+PA,Erie
+OR,Eugene
+IL,Evanston
+IN,Evansville
+WA,Everett
+ND,Fargo/Moorhead MN
+MI,Flint
+SC,Florence
+CO,Fort Collins
+FL,Fort Lauderdale
+FL,Fort Myers
+AR,Fort Smith
+IN,Fort Wayne
+TX,Fort Worth
+CA,Fresno
+FL,Gainesville
+IN,Gary
+ND,Grand Forks
+CO,Grand Junction
+MI,Grand Rapids
+MT,Great Falls
+CO,Greeley
+WI,Green Bay
+NC,Greensboro
+NC,Greenville
+SC,Greenville
+MS,Gulfport
+NJ,Hackensack
+TX,Harlingen
+PA,Harrisburg
+CT,Hartford
+MS,Hattiesburg
+NC,Hickory
+IL,Hinsdale
+HI,Honolulu
+LA,Houma
+TX,Houston
+FL,Hudson
+WV,Huntington
+AL,Huntsville
+ID,Idaho Falls
+IN,Indianapolis
+IA,Iowa City
+MS,Jackson
+TN,Jackson
+FL,Jacksonville
+TN,Johnson City
+PA,Johnstown
+IL,Joliet
+AR,Jonesboro
+MO,Joplin
+MI,Kalamazoo
+MO,Kansas City
+OH,Kettering
+TN,Kingsport
+TN,Knoxville
+WI,La Crosse
+IN,Lafayette
+LA,Lafayette
+LA,Lake Charles
+FL,Lakeland
+PA,Lancaster
+MI,Lansing
+NV,Las Vegas
+OK,Lawton
+NH,Lebanon
+KY,Lexington
+NE,Lincoln
+AR,Little Rock
+TX,Longview
+CA,Los Angeles
+KY,Louisville
+TX,Lubbock
+VA,Lynchburg
+GA,Macon
+WI,Madison
+NH,Manchester
+NY,Manhattan
+MI,Marquette
+WI,Marshfield
+IA,Mason City
+TX,McAllen
+OR,Medford
+IL,Melrose Park
+TN,Memphis
+MS,Meridian
+AZ,Mesa
+LA,Metairie
+FL,Miami
+WI,Milwaukee
+MN,Minneapolis
+ND,Minot
+MT,Missoula
+AL,Mobile
+CA,Modesto
+LA,Monroe
+AL,Montgomery
+WV,Morgantown
+NJ,Morristown
+IN,Muncie
+IN,Munster
+MI,Muskegon
+CA,Napa
+TN,Nashville
+WI,Neenah
+NJ,New Brunswick
+CT,New Haven
+LA,New Orleans
+NJ,Newark
+VA,Newport News
+VA,Norfolk
+FL,Ocala
+TX,Odessa
+UT,Ogden
+OK,Oklahoma City
+WA,Olympia
+NE,Omaha
+CA,Orange County
+FL,Orlando
+FL,Ormond Beach
+KY,Owensboro
+MS,Oxford
+KY,Paducah
+CA,Palm Springs/Rancho Mira
+NJ,Paterson
+FL,Pensacola
+IL,Peoria
+MI,Petoskey
+PA,Philadelphia
+AZ,Phoenix
+PA,Pittsburgh
+MI,Pontiac
+ME,Portland
+OR,Portland
+RI,Providence
+UT,Provo
+CO,Pueblo
+NC,Raleigh
+SD,Rapid City
+PA,Reading
+CA,Redding
+NV,Reno
+VA,Richmond
+NJ,Ridgewood
+VA,Roanoke
+MN,Rochester
+NY,Rochester
+IL,Rockford
+GA,Rome
+MI,Royal Oak
+CA,Sacramento
+MI,Saginaw
+OR,Salem
+CA,Salinas
+MD,Salisbury
+UT,Salt Lake City
+TX,San Angelo
+TX,San Antonio
+CA,San Bernardino
+CA,San Diego
+CA,San Francisco
+CA,San Jose
+CA,San Luis Obispo
+CA,San Mateo County
+CA,Santa Barbara
+CA,Santa Cruz
+CA,Santa Rosa
+FL,Sarasota
+GA,Savannah
+PA,Sayre
+PA,Scranton
+WA,Seattle
+LA,Shreveport
+IA,Sioux City
+SD,Sioux Falls
+LA,Slidell
+IN,South Bend
+SC,Spartanburg
+WA,Spokane
+AR,Springdale
+IL,Springfield
+MA,Springfield
+MO,Springfield
+MN,St. Cloud
+MI,St. Joseph
+MO,St. Louis
+MN,St. Paul
+FL,St. Petersburg
+CA,Stockton
+AZ,Sun City
+NY,Syracuse
+WA,Tacoma
+MD,Takoma Park
+FL,Tallahassee
+FL,Tampa
+TX,Temple
+IN,Terre Haute
+AR,Texarkana
+OH,Toledo
+KS,Topeka
+MI,Traverse City
+AZ,Tucson
+OK,Tulsa
+MS,Tupelo
+AL,Tuscaloosa
+TX,Tyler
+IL,Urbana
+CA,Ventura
+TX,Victoria
+TX,Waco
+DC,Washington
+IA,Waterloo
+WI,Wausau
+NY,White Plains
+TX,Wichita Falls
+KS,Wichita
+PA,Wilkes-Barre
+DE,Wilmington
+NC,Wilmington
+VA,Winchester
+NC,Winston-Salem
+MA,Worcester
+WA,Yakima
+PA,York
+OH,Youngstown

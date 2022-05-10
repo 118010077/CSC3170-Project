@@ -1,0 +1,2737 @@
+﻿State,City,Month,Percentage,Percentage of Available Bed,Percentage of Available ICU
+OH,Akron,6,0.2,2.95,3.52
+CA,Alameda County,6,0.2,5.4,5.47
+GA,Albany,6,0.2,1.98,3.48
+NY,Albany,6,0.2,2.63,4.68
+NM,Albuquerque,6,0.2,3.39,5.04
+LA,Alexandria,6,0.2,1.54,6.65
+PA,Allentown,6,0.2,2.13,4.1
+PA,Altoona,6,0.2,2.85,5.44
+TX,Amarillo,6,0.2,1.36,2.49
+AK,Anchorage,6,0.2,2.8,5.64
+MI,Ann Arbor,6,0.2,3.53,5.43
+WI,Appleton,6,0.2,3.2,4.16
+VA,Arlington,6,0.2,5.21,6.25
+NC,Asheville,6,0.2,2.85,4.66
+GA,Atlanta,6,0.2,4.12,6.65
+GA,Augusta,6,0.2,1.81,3.06
+IL,Aurora,6,0.2,2.33,5.56
+TX,Austin,6,0.2,4.11,5.34
+CA,Bakersfield,6,0.2,3.33,5.48
+MD,Baltimore,6,0.2,2.96,3.95
+ME,Bangor,6,0.2,2.27,7.14
+LA,Baton Rouge,6,0.2,1.77,3.66
+TX,Beaumont,6,0.2,2.36,4.98
+OR,Bend,6,0.2,2.97,7.06
+MT,Billings,6,0.2,1.43,4.43
+NY,Binghamton,6,0.2,2.22,10.47
+AL,Birmingham,6,0.2,1.8,3.14
+ND,Bismarck,6,0.2,1.21,2.58
+IL,Bloomington,6,0.2,2.19,9.3
+IL,Blue Island,6,0.2,3.21,3.42
+ID,Boise,6,0.2,2.3,4.41
+MA,Boston,6,0.2,4.39,5.5
+CO,Boulder,6,0.2,2.46,3.58
+FL,Bradenton,6,0.2,2.28,3.63
+CT,Bridgeport,6,0.2,4.04,4.94
+NY,Bronx,6,0.2,3.7,5.47
+TX,Bryan,6,0.2,1.97,3.82
+NY,Buffalo,6,0.2,2.49,7.01
+VT,Burlington,6,0.2,2.48,4.83
+NJ,Camden,6,0.2,2.71,4.63
+OH,Canton,6,0.2,1.98,3.16
+MO,Cape Girardeau,6,0.2,1.43,2.91
+WY,Casper,6,0.2,1.13,4.65
+IA,Cedar Rapids,6,0.2,1.8,6.45
+SC,Charleston,6,0.2,2.63,5.52
+WV,Charleston,6,0.2,1.58,4.2
+NC,Charlotte,6,0.2,3.81,4.77
+VA,Charlottesville,6,0.2,3.09,8.31
+TN,Chattanooga,6,0.2,2.44,5.86
+IL,Chicago,6,0.2,1.76,3.75
+CA,Chico,6,0.2,4.42,6.43
+OH,Cincinnati,6,0.2,2.33,4.16
+FL,Clearwater,6,0.2,1.76,6.55
+OH,Cleveland,6,0.2,1.71,3.22
+CO,Colorado Springs,6,0.2,3.35,6.39
+MO,Columbia,6,0.2,1.73,4.39
+SC,Columbia,6,0.2,2.58,3.87
+GA,Columbus,6,0.2,1.41,4.97
+OH,Columbus,6,0.2,2.38,6.06
+CA,Contra Costa County,6,0.2,3.47,6.2
+TX,Corpus Christi,6,0.2,3.42,6.89
+KY,Covington,6,0.2,3.22,4.92
+TX,Dallas,6,0.2,2.9,4.97
+PA,Danville,6,0.2,2.64,8.85
+IA,Davenport,6,0.2,1.53,3.56
+OH,Dayton,6,0.2,3.09,5.66
+MI,Dearborn,6,0.2,2.31,2.42
+CO,Denver,6,0.2,2.87,4.23
+IA,Des Moines,6,0.2,2.03,6.84
+MI,Detroit,6,0.2,2.74,4.82
+AL,Dothan,6,0.2,1.62,5.42
+IA,Dubuque,6,0.2,1.56,9.75
+MN,Duluth,6,0.2,1.53,2.33
+NC,Durham,6,0.2,2.72,2.75
+NY,East Long Island,6,0.2,8.62,9.73
+TX,El Paso,6,0.2,3.07,9.65
+IL,Elgin,6,0.2,3.53,5.3
+NY,Elmira,6,0.2,1.99,11.29
+OH,Elyria,6,0.2,2.63,5.86
+PA,Erie,6,0.2,2.25,3.95
+OR,Eugene,6,0.2,4.11,5.86
+IL,Evanston,6,0.2,3.02,3.22
+IN,Evansville,6,0.2,1.42,2.06
+WA,Everett,6,0.2,4.72,12.46
+ND,Fargo/Moorhead MN,6,0.2,1.65,5.46
+MI,Flint,6,0.2,2.61,4.47
+SC,Florence,6,0.2,1.68,2.23
+CO,Fort Collins,6,0.2,2.31,11.93
+FL,Fort Lauderdale,6,0.2,2.49,5.23
+FL,Fort Myers,6,0.2,2.94,7.67
+AR,Fort Smith,6,0.2,1.63,3.15
+IN,Fort Wayne,6,0.2,1.75,2.75
+TX,Fort Worth,6,0.2,3.44,5.43
+CA,Fresno,6,0.2,4.59,6.88
+FL,Gainesville,6,0.2,2.77,3.2
+IN,Gary,6,0.2,1.72,2.49
+ND,Grand Forks,6,0.2,0.97,4.33
+CO,Grand Junction,6,0.2,2.36,5
+MI,Grand Rapids,6,0.2,2.7,6.43
+MT,Great Falls,6,0.2,0.88,2.63
+CO,Greeley,6,0.2,2.06,6.25
+WI,Green Bay,6,0.2,2.27,5.74
+NC,Greensboro,6,0.2,3.89,6.47
+NC,Greenville,6,0.2,3,3.56
+SC,Greenville,6,0.2,2.6,10.98
+MS,Gulfport,6,0.2,1.54,2.35
+NJ,Hackensack,6,0.2,2.75,6.38
+TX,Harlingen,6,0.2,2.16,5.61
+PA,Harrisburg,6,0.2,2.5,8.33
+CT,Hartford,6,0.2,4.45,6.3
+MS,Hattiesburg,6,0.2,1.32,4.77
+NC,Hickory,6,0.2,2.55,5.64
+IL,Hinsdale,6,0.2,2.64,2.54
+HI,Honolulu,6,0.2,3.93,9.3
+LA,Houma,6,0.2,1.43,3.81
+TX,Houston,6,0.2,2.8,4.61
+FL,Hudson,6,0.2,3.14,5.27
+WV,Huntington,6,0.2,2.04,2.67
+AL,Huntsville,6,0.2,2.48,5.15
+ID,Idaho Falls,6,0.2,1.73,4.13
+IN,Indianapolis,6,0.2,1.86,3.3
+IA,Iowa City,6,0.2,1.44,2.59
+MS,Jackson,6,0.2,1.12,3.17
+TN,Jackson,6,0.2,1.71,2.77
+FL,Jacksonville,6,0.2,2.29,4.36
+TN,Johnson City,6,0.2,1.94,3.69
+PA,Johnstown,6,0.2,1.15,4.36
+IL,Joliet,6,0.2,2.15,5.72
+AR,Jonesboro,6,0.2,1.29,4.91
+MO,Joplin,6,0.2,1.57,2.46
+MI,Kalamazoo,6,0.2,2.13,14.95
+MO,Kansas City,6,0.2,2.04,4.05
+OH,Kettering,6,0.2,2.28,4.88
+TN,Kingsport,6,0.2,1.6,3.16
+TN,Knoxville,6,0.2,2.61,9.24
+WI,La Crosse,6,0.2,2.74,3.89
+IN,Lafayette,6,0.2,2.83,8.21
+LA,Lafayette,6,0.2,1.88,3.24
+LA,Lake Charles,6,0.2,1.37,2.82
+FL,Lakeland,6,0.2,2.35,3.46
+PA,Lancaster,6,0.2,3.17,8.05
+MI,Lansing,6,0.2,2.46,2.89
+NV,Las Vegas,6,0.2,4.34,6.26
+OK,Lawton,6,0.2,1.22,2.84
+NH,Lebanon,6,0.2,2.73,3.59
+KY,Lexington,6,0.2,1.6,4.15
+NE,Lincoln,6,0.2,1.26,8.39
+AR,Little Rock,6,0.2,1.56,4.18
+TX,Longview,6,0.2,4.6,4.67
+CA,Los Angeles,6,0.2,3.27,4.83
+KY,Louisville,6,0.2,2.27,5.04
+TX,Lubbock,6,0.2,1.63,3.74
+VA,Lynchburg,6,0.2,1.99,6.75
+GA,Macon,6,0.2,1.83,5.98
+WI,Madison,6,0.2,2.93,4.36
+NH,Manchester,6,0.2,3.42,8.11
+NY,Manhattan,6,0.2,3.76,3.97
+MI,Marquette,6,0.2,1.64,5.56
+WI,Marshfield,6,0.2,2.98,5.44
+IA,Mason City,6,0.2,1.21,10.67
+TX,McAllen,6,0.2,1.56,2.1
+OR,Medford,6,0.2,2.74,9.08
+IL,Melrose Park,6,0.2,2.54,4.44
+TN,Memphis,6,0.2,1.84,5.8
+MS,Meridian,6,0.2,0.93,4.79
+AZ,Mesa,6,0.2,4.85,6.25
+LA,Metairie,6,0.2,2.52,5.05
+FL,Miami,6,0.2,2.58,5.84
+WI,Milwaukee,6,0.2,2.6,3.81
+MN,Minneapolis,6,0.2,2.9,6.41
+ND,Minot,6,0.2,0.8,7.33
+MT,Missoula,6,0.2,1.96,5.03
+AL,Mobile,6,0.2,2.61,3.9
+CA,Modesto,6,0.2,4.02,9.09
+LA,Monroe,6,0.2,1.02,3.42
+AL,Montgomery,6,0.2,2.17,3.52
+WV,Morgantown,6,0.2,1.85,5
+NJ,Morristown,6,0.2,3.76,8.85
+IN,Muncie,6,0.2,2.8,9.88
+IN,Munster,6,0.2,1.04,3.4
+MI,Muskegon,6,0.2,2.33,3.2
+CA,Napa,6,0.2,4.09,3.34
+TN,Nashville,6,0.2,2.11,4.25
+WI,Neenah,6,0.2,2.05,4.64
+NJ,New Brunswick,6,0.2,3.79,3.96
+CT,New Haven,6,0.2,5.4,6.04
+LA,New Orleans,6,0.2,1.75,4.18
+NJ,Newark,6,0.2,3.27,3.66
+VA,Newport News,6,0.2,4.97,5.98
+VA,Norfolk,6,0.2,3.6,7.28
+FL,Ocala,6,0.2,4.75,6.43
+TX,Odessa,6,0.2,1.43,4.29
+UT,Ogden,6,0.2,2.61,4.83
+OK,Oklahoma City,6,0.2,1.69,3.94
+WA,Olympia,6,0.2,5.21,7.88
+NE,Omaha,6,0.2,1.61,3.28
+CA,Orange County,6,0.2,3.28,5.31
+FL,Orlando,6,0.2,2.68,4.32
+FL,Ormond Beach,6,0.2,2.77,3.63
+KY,Owensboro,6,0.2,1.8,4.93
+MS,Oxford,6,0.2,0.94,4.6
+KY,Paducah,6,0.2,1.06,3.19
+CA,Palm Springs/Rancho Mira,6,0.2,2.22,8.87
+NJ,Paterson,6,0.2,1.64,15.5
+FL,Pensacola,6,0.2,2.36,4.23
+IL,Peoria,6,0.2,2.06,4.08
+MI,Petoskey,6,0.2,2.3,4.14
+PA,Philadelphia,6,0.2,2.54,3.63
+AZ,Phoenix,6,0.2,2.99,3.96
+PA,Pittsburgh,6,0.2,2.4,3.44
+MI,Pontiac,6,0.2,3.26,4.57
+ME,Portland,6,0.2,3.47,5.86
+OR,Portland,6,0.2,3.53,4.73
+RI,Providence,6,0.2,3.98,7.21
+UT,Provo,6,0.2,3.03,4.65
+CO,Pueblo,6,0.2,1.65,12.29
+NC,Raleigh,6,0.2,4.07,6.05
+SD,Rapid City,6,0.2,1.42,5.3
+PA,Reading,6,0.2,2.34,5.7
+CA,Redding,6,0.2,2.75,2.97
+NV,Reno,6,0.2,2.57,2.88
+VA,Richmond,6,0.2,2.62,5.81
+NJ,Ridgewood,6,0.2,3.42,5.77
+VA,Roanoke,6,0.2,2.71,3.11
+MN,Rochester,6,0.2,1.52,2.19
+NY,Rochester,6,0.2,3.5,7.2
+IL,Rockford,6,0.2,2.53,3.51
+GA,Rome,6,0.2,2.71,8.38
+MI,Royal Oak,6,0.2,1.82,3.48
+CA,Sacramento,6,0.2,4.39,5.54
+MI,Saginaw,6,0.2,1.45,4.94
+OR,Salem,6,0.2,4.62,15.3
+CA,Salinas,6,0.2,2.88,4.78
+MD,Salisbury,6,0.2,5.71,9.19
+UT,Salt Lake City,6,0.2,2.36,3.24
+TX,San Angelo,6,0.2,1.09,4.47
+TX,San Antonio,6,0.2,2.43,5.93
+CA,San Bernardino,6,0.2,3.09,5.97
+CA,San Diego,6,0.2,4.23,4.88
+CA,San Francisco,6,0.2,3.09,3.72
+CA,San Jose,6,0.2,4.35,5.77
+CA,San Luis Obispo,6,0.2,2.98,3.97
+CA,San Mateo County,6,0.2,4.1,4.52
+CA,Santa Barbara,6,0.2,4.05,6.11
+CA,Santa Cruz,6,0.2,3.73,22.33
+CA,Santa Rosa,6,0.2,3.7,5.49
+FL,Sarasota,6,0.2,1.9,3.57
+GA,Savannah,6,0.2,3.01,7.67
+PA,Sayre,6,0.2,2.02,3.43
+PA,Scranton,6,0.2,2.23,5.16
+WA,Seattle,6,0.2,4.88,6.79
+LA,Shreveport,6,0.2,1.37,2.89
+IA,Sioux City,6,0.2,1.51,5.17
+SD,Sioux Falls,6,0.2,1.02,7.08
+LA,Slidell,6,0.2,1.24,1.31
+IN,South Bend,6,0.2,2.73,4.64
+SC,Spartanburg,6,0.2,3.01,2.83
+WA,Spokane,6,0.2,2.04,5.48
+AR,Springdale,6,0.2,1.96,3.52
+IL,Springfield,6,0.2,1.54,5
+MA,Springfield,6,0.2,3.35,4.97
+MO,Springfield,6,0.2,2.39,6.45
+MN,St. Cloud,6,0.2,2.48,7.56
+MI,St. Joseph,6,0.2,1.31,7.67
+MO,St. Louis,6,0.2,1.72,2.93
+MN,St. Paul,6,0.2,4.05,10.46
+FL,St. Petersburg,6,0.2,1.65,6.82
+CA,Stockton,6,0.2,3.88,6.59
+AZ,Sun City,6,0.2,2.02,2.19
+NY,Syracuse,6,0.2,2.44,6.51
+WA,Tacoma,6,0.2,4.83,6.05
+MD,Takoma Park,6,0.2,7.33,9.46
+FL,Tallahassee,6,0.2,3.06,7.86
+FL,Tampa,6,0.2,2.51,4.21
+TX,Temple,6,0.2,2.86,4.66
+IN,Terre Haute,6,0.2,1.89,2.3
+AR,Texarkana,6,0.2,1.46,1.97
+OH,Toledo,6,0.2,1.91,2.59
+KS,Topeka,6,0.2,1.65,4.31
+MI,Traverse City,6,0.2,1.87,17.57
+AZ,Tucson,6,0.2,2.33,3.77
+OK,Tulsa,6,0.2,1.67,4.05
+MS,Tupelo,6,0.2,1.05,3.03
+AL,Tuscaloosa,6,0.2,2,3.41
+TX,Tyler,6,0.2,2.34,2.13
+IL,Urbana,6,0.2,2.09,4
+CA,Ventura,6,0.2,6.67,4.22
+TX,Victoria,6,0.2,0.92,3.94
+TX,Waco,6,0.2,2.83,6.67
+DC,Washington,6,0.2,3.76,5.86
+IA,Waterloo,6,0.2,1.39,5.42
+WI,Wausau,6,0.2,2.82,2.09
+NY,White Plains,6,0.2,4.18,3.93
+TX,Wichita Falls,6,0.2,1.45,11.75
+KS,Wichita,6,0.2,1.2,2.86
+PA,Wilkes-Barre,6,0.2,2.14,5.17
+DE,Wilmington,6,0.2,2.94,6.11
+NC,Wilmington,6,0.2,4.35,14.12
+VA,Winchester,6,0.2,2.75,9.68
+NC,Winston-Salem,6,0.2,3,13.8
+MA,Worcester,6,0.2,4.25,9
+WA,Yakima,6,0.2,3.06,3.97
+PA,York,6,0.2,3.61,26.25
+OH,Youngstown,6,0.2,2.59,4.73
+OH,Akron,6,0.4,5.9,7.03
+CA,Alameda County,6,0.4,10.8,10.94
+GA,Albany,6,0.4,3.95,6.96
+NY,Albany,6,0.4,5.25,9.36
+NM,Albuquerque,6,0.4,6.79,10.08
+LA,Alexandria,6,0.4,3.07,13.35
+PA,Allentown,6,0.4,4.26,8.21
+PA,Altoona,6,0.4,5.69,10.89
+TX,Amarillo,6,0.4,2.72,4.99
+AK,Anchorage,6,0.4,5.6,11.29
+MI,Ann Arbor,6,0.4,7.06,10.87
+WI,Appleton,6,0.4,6.41,8.32
+VA,Arlington,6,0.4,10.41,12.5
+NC,Asheville,6,0.4,5.71,9.33
+GA,Atlanta,6,0.4,8.24,13.31
+GA,Augusta,6,0.4,3.62,6.1
+IL,Aurora,6,0.4,4.65,11.08
+TX,Austin,6,0.4,8.22,10.66
+CA,Bakersfield,6,0.4,6.65,10.95
+MD,Baltimore,6,0.4,5.92,7.91
+ME,Bangor,6,0.4,4.53,14.29
+LA,Baton Rouge,6,0.4,3.54,7.33
+TX,Beaumont,6,0.4,4.71,9.95
+OR,Bend,6,0.4,5.95,14.12
+MT,Billings,6,0.4,2.86,8.86
+NY,Binghamton,6,0.4,4.44,20.94
+AL,Birmingham,6,0.4,3.6,6.28
+ND,Bismarck,6,0.4,2.42,5.16
+IL,Bloomington,6,0.4,4.38,18.6
+IL,Blue Island,6,0.4,6.42,6.85
+ID,Boise,6,0.4,4.59,8.81
+MA,Boston,6,0.4,8.78,10.99
+CO,Boulder,6,0.4,4.92,7.16
+FL,Bradenton,6,0.4,4.56,7.27
+CT,Bridgeport,6,0.4,8.08,9.88
+NY,Bronx,6,0.4,7.41,10.95
+TX,Bryan,6,0.4,3.95,7.68
+NY,Buffalo,6,0.4,4.98,14.02
+VT,Burlington,6,0.4,4.96,9.66
+NJ,Camden,6,0.4,5.42,9.27
+OH,Canton,6,0.4,3.96,6.33
+MO,Cape Girardeau,6,0.4,2.87,5.81
+WY,Casper,6,0.4,2.26,9.3
+IA,Cedar Rapids,6,0.4,3.6,12.91
+SC,Charleston,6,0.4,5.26,11.06
+WV,Charleston,6,0.4,3.16,8.38
+NC,Charlotte,6,0.4,7.61,9.53
+VA,Charlottesville,6,0.4,6.18,16.6
+TN,Chattanooga,6,0.4,4.89,11.73
+IL,Chicago,6,0.4,3.52,7.49
+CA,Chico,6,0.4,8.84,12.87
+OH,Cincinnati,6,0.4,4.67,8.33
+FL,Clearwater,6,0.4,3.53,13.11
+OH,Cleveland,6,0.4,3.43,6.43
+CO,Colorado Springs,6,0.4,6.69,12.79
+MO,Columbia,6,0.4,3.46,8.78
+SC,Columbia,6,0.4,5.15,7.73
+GA,Columbus,6,0.4,2.82,9.94
+OH,Columbus,6,0.4,4.77,12.11
+CA,Contra Costa County,6,0.4,6.94,12.41
+TX,Corpus Christi,6,0.4,6.83,13.76
+KY,Covington,6,0.4,6.43,9.82
+TX,Dallas,6,0.4,5.8,9.94
+PA,Danville,6,0.4,5.28,17.7
+IA,Davenport,6,0.4,3.06,7.11
+OH,Dayton,6,0.4,6.18,11.33
+MI,Dearborn,6,0.4,4.61,4.83
+CO,Denver,6,0.4,5.74,8.46
+IA,Des Moines,6,0.4,4.05,13.68
+MI,Detroit,6,0.4,5.48,9.65
+AL,Dothan,6,0.4,3.25,10.85
+IA,Dubuque,6,0.4,3.11,19.38
+MN,Duluth,6,0.4,3.06,4.67
+NC,Durham,6,0.4,5.45,5.51
+NY,East Long Island,6,0.4,17.25,19.46
+TX,El Paso,6,0.4,6.14,19.29
+IL,Elgin,6,0.4,7.05,10.58
+NY,Elmira,6,0.4,3.99,22.57
+OH,Elyria,6,0.4,5.26,11.71
+PA,Erie,6,0.4,4.49,7.92
+OR,Eugene,6,0.4,8.21,11.73
+IL,Evanston,6,0.4,6.03,6.43
+IN,Evansville,6,0.4,2.83,4.13
+WA,Everett,6,0.4,9.45,24.92
+ND,Fargo/Moorhead MN,6,0.4,3.29,10.94
+MI,Flint,6,0.4,5.21,8.93
+SC,Florence,6,0.4,3.36,4.47
+CO,Fort Collins,6,0.4,4.63,23.86
+FL,Fort Lauderdale,6,0.4,4.98,10.45
+FL,Fort Myers,6,0.4,5.89,15.34
+AR,Fort Smith,6,0.4,3.26,6.31
+IN,Fort Wayne,6,0.4,3.5,5.5
+TX,Fort Worth,6,0.4,6.89,10.87
+CA,Fresno,6,0.4,9.18,13.77
+FL,Gainesville,6,0.4,5.54,6.4
+IN,Gary,6,0.4,3.44,5
+ND,Grand Forks,6,0.4,1.94,8.67
+CO,Grand Junction,6,0.4,4.72,9.97
+MI,Grand Rapids,6,0.4,5.4,12.85
+MT,Great Falls,6,0.4,1.76,5.22
+CO,Greeley,6,0.4,4.12,12.5
+WI,Green Bay,6,0.4,4.55,11.49
+NC,Greensboro,6,0.4,7.78,12.94
+NC,Greenville,6,0.4,6,7.11
+SC,Greenville,6,0.4,5.21,21.98
+MS,Gulfport,6,0.4,3.07,4.7
+NJ,Hackensack,6,0.4,5.51,12.76
+TX,Harlingen,6,0.4,4.32,11.25
+PA,Harrisburg,6,0.4,5,16.64
+CT,Hartford,6,0.4,8.9,12.58
+MS,Hattiesburg,6,0.4,2.65,9.57
+NC,Hickory,6,0.4,5.11,11.32
+IL,Hinsdale,6,0.4,5.29,5.09
+HI,Honolulu,6,0.4,7.86,18.62
+LA,Houma,6,0.4,2.86,7.63
+TX,Houston,6,0.4,5.59,9.21
+FL,Hudson,6,0.4,6.28,10.53
+WV,Huntington,6,0.4,4.09,5.34
+AL,Huntsville,6,0.4,4.95,10.31
+ID,Idaho Falls,6,0.4,3.47,8.25
+IN,Indianapolis,6,0.4,3.71,6.61
+IA,Iowa City,6,0.4,2.88,5.2
+MS,Jackson,6,0.4,2.24,6.36
+TN,Jackson,6,0.4,3.42,5.56
+FL,Jacksonville,6,0.4,4.58,8.72
+TN,Johnson City,6,0.4,3.87,7.41
+PA,Johnstown,6,0.4,2.3,8.76
+IL,Joliet,6,0.4,4.3,11.43
+AR,Jonesboro,6,0.4,2.58,9.78
+MO,Joplin,6,0.4,3.15,4.92
+MI,Kalamazoo,6,0.4,4.26,29.86
+MO,Kansas City,6,0.4,4.08,8.09
+OH,Kettering,6,0.4,4.56,9.76
+TN,Kingsport,6,0.4,3.21,6.33
+TN,Knoxville,6,0.4,5.22,18.49
+WI,La Crosse,6,0.4,5.49,7.77
+IN,Lafayette,6,0.4,5.66,16.43
+LA,Lafayette,6,0.4,3.77,6.47
+LA,Lake Charles,6,0.4,2.74,5.64
+FL,Lakeland,6,0.4,4.69,6.91
+PA,Lancaster,6,0.4,6.33,16.1
+MI,Lansing,6,0.4,4.91,5.77
+NV,Las Vegas,6,0.4,8.69,12.52
+OK,Lawton,6,0.4,2.45,5.66
+NH,Lebanon,6,0.4,5.47,7.18
+KY,Lexington,6,0.4,3.2,8.3
+NE,Lincoln,6,0.4,2.52,16.82
+AR,Little Rock,6,0.4,3.13,8.36
+TX,Longview,6,0.4,9.2,9.29
+CA,Los Angeles,6,0.4,6.54,9.67
+KY,Louisville,6,0.4,4.54,10.07
+TX,Lubbock,6,0.4,3.26,7.49
+VA,Lynchburg,6,0.4,3.97,13.45
+GA,Macon,6,0.4,3.66,11.95
+WI,Madison,6,0.4,5.86,8.7
+NH,Manchester,6,0.4,6.85,16.25
+NY,Manhattan,6,0.4,7.51,7.94
+MI,Marquette,6,0.4,3.29,11.17
+WI,Marshfield,6,0.4,5.97,10.88
+IA,Mason City,6,0.4,2.41,21.5
+TX,McAllen,6,0.4,3.12,4.2
+OR,Medford,6,0.4,5.48,18.12
+IL,Melrose Park,6,0.4,5.08,8.88
+TN,Memphis,6,0.4,3.69,11.6
+MS,Meridian,6,0.4,1.87,9.53
+AZ,Mesa,6,0.4,9.71,12.49
+LA,Metairie,6,0.4,5.05,10.09
+FL,Miami,6,0.4,5.16,11.69
+WI,Milwaukee,6,0.4,5.21,7.62
+MN,Minneapolis,6,0.4,5.79,12.82
+ND,Minot,6,0.4,1.61,14.56
+MT,Missoula,6,0.4,3.92,10.08
+AL,Mobile,6,0.4,5.22,7.79
+CA,Modesto,6,0.4,8.04,18.16
+LA,Monroe,6,0.4,2.04,6.86
+AL,Montgomery,6,0.4,4.34,7.03
+WV,Morgantown,6,0.4,3.69,10
+NJ,Morristown,6,0.4,7.52,17.69
+IN,Muncie,6,0.4,5.6,19.63
+IN,Munster,6,0.4,2.07,6.79
+MI,Muskegon,6,0.4,4.65,6.43
+CA,Napa,6,0.4,8.18,6.71
+TN,Nashville,6,0.4,4.22,8.49
+WI,Neenah,6,0.4,4.1,9.32
+NJ,New Brunswick,6,0.4,7.58,7.92
+CT,New Haven,6,0.4,10.79,12.09
+LA,New Orleans,6,0.4,3.5,8.36
+NJ,Newark,6,0.4,6.54,7.31
+VA,Newport News,6,0.4,9.93,11.96
+VA,Norfolk,6,0.4,7.2,14.57
+FL,Ocala,6,0.4,9.51,12.86
+TX,Odessa,6,0.4,2.85,8.55
+UT,Ogden,6,0.4,5.22,9.64
+OK,Oklahoma City,6,0.4,3.38,7.88
+WA,Olympia,6,0.4,10.42,15.76
+NE,Omaha,6,0.4,3.22,6.57
+CA,Orange County,6,0.4,6.55,10.62
+FL,Orlando,6,0.4,5.37,8.65
+FL,Ormond Beach,6,0.4,5.55,7.25
+KY,Owensboro,6,0.4,3.61,9.86
+MS,Oxford,6,0.4,1.88,9.27
+KY,Paducah,6,0.4,2.12,6.39
+CA,Palm Springs/Rancho Mira,6,0.4,4.43,17.74
+NJ,Paterson,6,0.4,3.28,30.92
+FL,Pensacola,6,0.4,4.71,8.46
+IL,Peoria,6,0.4,4.11,8.15
+MI,Petoskey,6,0.4,4.6,8.32
+PA,Philadelphia,6,0.4,5.09,7.27
+AZ,Phoenix,6,0.4,5.98,7.93
+PA,Pittsburgh,6,0.4,4.8,6.88
+MI,Pontiac,6,0.4,6.51,9.14
+ME,Portland,6,0.4,6.95,11.72
+OR,Portland,6,0.4,7.07,9.46
+RI,Providence,6,0.4,7.95,14.41
+UT,Provo,6,0.4,6.06,9.31
+CO,Pueblo,6,0.4,3.29,24.57
+NC,Raleigh,6,0.4,8.14,12.09
+SD,Rapid City,6,0.4,2.84,10.6
+PA,Reading,6,0.4,4.68,11.4
+CA,Redding,6,0.4,5.5,5.93
+NV,Reno,6,0.4,5.14,5.76
+VA,Richmond,6,0.4,5.25,11.63
+NJ,Ridgewood,6,0.4,6.84,11.57
+VA,Roanoke,6,0.4,5.41,6.21
+MN,Rochester,6,0.4,3.04,4.38
+NY,Rochester,6,0.4,7,14.39
+IL,Rockford,6,0.4,5.05,7.02
+GA,Rome,6,0.4,5.41,16.81
+MI,Royal Oak,6,0.4,3.63,6.98
+CA,Sacramento,6,0.4,8.78,11.09
+MI,Saginaw,6,0.4,2.91,9.86
+OR,Salem,6,0.4,9.23,30.7
+CA,Salinas,6,0.4,5.75,9.57
+MD,Salisbury,6,0.4,11.42,18.38
+UT,Salt Lake City,6,0.4,4.71,6.48
+TX,San Angelo,6,0.4,2.18,9
+TX,San Antonio,6,0.4,4.87,11.87
+CA,San Bernardino,6,0.4,6.18,11.94
+CA,San Diego,6,0.4,8.46,9.75
+CA,San Francisco,6,0.4,6.19,7.44
+CA,San Jose,6,0.4,8.71,11.53
+CA,San Luis Obispo,6,0.4,5.95,7.94
+CA,San Mateo County,6,0.4,8.19,9.05
+CA,Santa Barbara,6,0.4,8.1,12.2
+CA,Santa Cruz,6,0.4,7.47,44.67
+CA,Santa Rosa,6,0.4,7.4,10.98
+FL,Sarasota,6,0.4,3.8,7.14
+GA,Savannah,6,0.4,6.02,15.35
+PA,Sayre,6,0.4,4.04,6.86
+PA,Scranton,6,0.4,4.47,10.35
+WA,Seattle,6,0.4,9.76,13.58
+LA,Shreveport,6,0.4,2.75,5.79
+IA,Sioux City,6,0.4,3.03,10.35
+SD,Sioux Falls,6,0.4,2.05,14.17
+LA,Slidell,6,0.4,2.49,2.61
+IN,South Bend,6,0.4,5.46,9.27
+SC,Spartanburg,6,0.4,6.03,5.65
+WA,Spokane,6,0.4,4.09,10.96
+AR,Springdale,6,0.4,3.92,7.05
+IL,Springfield,6,0.4,3.07,9.99
+MA,Springfield,6,0.4,6.71,9.95
+MO,Springfield,6,0.4,4.78,12.88
+MN,St. Cloud,6,0.4,4.96,15.13
+MI,St. Joseph,6,0.4,2.63,15.22
+MO,St. Louis,6,0.4,3.43,5.86
+MN,St. Paul,6,0.4,8.1,20.9
+FL,St. Petersburg,6,0.4,3.31,13.67
+CA,Stockton,6,0.4,7.75,13.17
+AZ,Sun City,6,0.4,4.03,4.37
+NY,Syracuse,6,0.4,4.88,13
+WA,Tacoma,6,0.4,9.65,12.1
+MD,Takoma Park,6,0.4,14.67,18.92
+FL,Tallahassee,6,0.4,6.12,15.74
+FL,Tampa,6,0.4,5.03,8.42
+TX,Temple,6,0.4,5.71,9.34
+IN,Terre Haute,6,0.4,3.78,4.57
+AR,Texarkana,6,0.4,2.91,3.92
+OH,Toledo,6,0.4,3.82,5.18
+KS,Topeka,6,0.4,3.3,8.61
+MI,Traverse City,6,0.4,3.73,35.14
+AZ,Tucson,6,0.4,4.65,7.54
+OK,Tulsa,6,0.4,3.35,8.1
+MS,Tupelo,6,0.4,2.1,6.08
+AL,Tuscaloosa,6,0.4,3.99,6.84
+TX,Tyler,6,0.4,4.68,4.25
+IL,Urbana,6,0.4,4.18,7.98
+CA,Ventura,6,0.4,13.34,8.46
+TX,Victoria,6,0.4,1.84,7.83
+TX,Waco,6,0.4,5.66,13.33
+DC,Washington,6,0.4,7.52,11.72
+IA,Waterloo,6,0.4,2.77,10.79
+WI,Wausau,6,0.4,5.63,4.2
+NY,White Plains,6,0.4,8.37,7.87
+TX,Wichita Falls,6,0.4,2.9,23.38
+KS,Wichita,6,0.4,2.39,5.72
+PA,Wilkes-Barre,6,0.4,4.27,10.29
+DE,Wilmington,6,0.4,5.88,12.23
+NC,Wilmington,6,0.4,8.7,28.29
+VA,Winchester,6,0.4,5.5,19.41
+NC,Winston-Salem,6,0.4,6,27.6
+MA,Worcester,6,0.4,8.51,18.02
+WA,Yakima,6,0.4,6.12,7.94
+PA,York,6,0.4,7.21,52.38
+OH,Youngstown,6,0.4,5.19,9.47
+OH,Akron,6,0.6,8.86,10.55
+CA,Alameda County,6,0.6,16.2,16.4
+GA,Albany,6,0.6,5.93,10.44
+NY,Albany,6,0.6,7.88,14.04
+NM,Albuquerque,6,0.6,10.18,15.12
+LA,Alexandria,6,0.6,4.61,20
+PA,Allentown,6,0.6,6.38,12.31
+PA,Altoona,6,0.6,8.53,16.33
+TX,Amarillo,6,0.6,4.07,7.48
+AK,Anchorage,6,0.6,8.4,16.93
+MI,Ann Arbor,6,0.6,10.59,16.3
+WI,Appleton,6,0.6,9.61,12.49
+VA,Arlington,6,0.6,15.62,18.76
+NC,Asheville,6,0.6,8.56,13.99
+GA,Atlanta,6,0.6,12.36,19.96
+GA,Augusta,6,0.6,5.42,9.16
+IL,Aurora,6,0.6,6.98,16.64
+TX,Austin,6,0.6,12.33,16
+CA,Bakersfield,6,0.6,9.98,16.43
+MD,Baltimore,6,0.6,8.88,11.86
+ME,Bangor,6,0.6,6.79,21.46
+LA,Baton Rouge,6,0.6,5.31,10.99
+TX,Beaumont,6,0.6,7.07,14.93
+OR,Bend,6,0.6,8.92,21.18
+MT,Billings,6,0.6,4.29,13.29
+NY,Binghamton,6,0.6,6.66,31.41
+AL,Birmingham,6,0.6,5.4,9.42
+ND,Bismarck,6,0.6,3.64,7.77
+IL,Bloomington,6,0.6,6.57,27.9
+IL,Blue Island,6,0.6,9.62,10.27
+ID,Boise,6,0.6,6.89,13.22
+MA,Boston,6,0.6,13.16,16.48
+CO,Boulder,6,0.6,7.38,10.74
+FL,Bradenton,6,0.6,6.84,10.9
+CT,Bridgeport,6,0.6,12.12,14.82
+NY,Bronx,6,0.6,11.11,16.42
+TX,Bryan,6,0.6,5.92,11.5
+NY,Buffalo,6,0.6,7.47,21.03
+VT,Burlington,6,0.6,7.44,14.51
+NJ,Camden,6,0.6,8.13,13.9
+OH,Canton,6,0.6,5.95,9.49
+MO,Cape Girardeau,6,0.6,4.31,8.72
+WY,Casper,6,0.6,3.39,13.9
+IA,Cedar Rapids,6,0.6,5.41,19.36
+SC,Charleston,6,0.6,7.89,16.58
+WV,Charleston,6,0.6,4.74,12.58
+NC,Charlotte,6,0.6,11.42,14.3
+VA,Charlottesville,6,0.6,9.27,24.91
+TN,Chattanooga,6,0.6,7.33,17.59
+IL,Chicago,6,0.6,5.29,11.24
+CA,Chico,6,0.6,13.25,19.3
+OH,Cincinnati,6,0.6,7,12.49
+FL,Clearwater,6,0.6,5.29,19.66
+OH,Cleveland,6,0.6,5.14,9.65
+CO,Colorado Springs,6,0.6,10.04,19.18
+MO,Columbia,6,0.6,5.19,13.18
+SC,Columbia,6,0.6,7.73,11.6
+GA,Columbus,6,0.6,4.24,14.94
+OH,Columbus,6,0.6,7.15,18.17
+CA,Contra Costa County,6,0.6,10.41,18.6
+TX,Corpus Christi,6,0.6,10.25,20.66
+KY,Covington,6,0.6,9.65,14.74
+TX,Dallas,6,0.6,8.7,14.91
+PA,Danville,6,0.6,7.92,26.52
+IA,Davenport,6,0.6,4.6,10.67
+OH,Dayton,6,0.6,9.28,16.99
+MI,Dearborn,6,0.6,6.92,7.25
+CO,Denver,6,0.6,8.61,12.69
+IA,Des Moines,6,0.6,6.08,20.53
+MI,Detroit,6,0.6,8.23,14.47
+AL,Dothan,6,0.6,4.87,16.27
+IA,Dubuque,6,0.6,4.67,29.13
+MN,Duluth,6,0.6,4.58,7
+NC,Durham,6,0.6,8.17,8.26
+NY,East Long Island,6,0.6,25.87,29.19
+TX,El Paso,6,0.6,9.21,28.94
+IL,Elgin,6,0.6,10.58,15.88
+NY,Elmira,6,0.6,5.98,33.86
+OH,Elyria,6,0.6,7.89,17.57
+PA,Erie,6,0.6,6.74,11.88
+OR,Eugene,6,0.6,12.31,17.59
+IL,Evanston,6,0.6,9.05,9.65
+IN,Evansville,6,0.6,4.25,6.19
+WA,Everett,6,0.6,14.17,37.38
+ND,Fargo/Moorhead MN,6,0.6,4.94,16.4
+MI,Flint,6,0.6,7.82,13.4
+SC,Florence,6,0.6,5.04,6.7
+CO,Fort Collins,6,0.6,6.94,35.79
+FL,Fort Lauderdale,6,0.6,7.47,15.68
+FL,Fort Myers,6,0.6,8.83,23.02
+AR,Fort Smith,6,0.6,4.89,9.45
+IN,Fort Wayne,6,0.6,5.25,8.25
+TX,Fort Worth,6,0.6,10.33,16.3
+CA,Fresno,6,0.6,13.78,20.65
+FL,Gainesville,6,0.6,8.3,9.6
+IN,Gary,6,0.6,5.15,7.49
+ND,Grand Forks,6,0.6,2.91,13
+CO,Grand Junction,6,0.6,7.08,14.97
+MI,Grand Rapids,6,0.6,8.1,19.28
+MT,Great Falls,6,0.6,2.65,7.85
+CO,Greeley,6,0.6,6.18,18.75
+WI,Green Bay,6,0.6,6.82,17.23
+NC,Greensboro,6,0.6,11.67,19.4
+NC,Greenville,6,0.6,9,10.67
+SC,Greenville,6,0.6,7.81,32.95
+MS,Gulfport,6,0.6,4.61,7.05
+NJ,Hackensack,6,0.6,8.26,19.14
+TX,Harlingen,6,0.6,6.48,16.86
+PA,Harrisburg,6,0.6,7.5,24.97
+CT,Hartford,6,0.6,13.35,18.88
+MS,Hattiesburg,6,0.6,3.97,14.33
+NC,Hickory,6,0.6,7.66,16.96
+IL,Hinsdale,6,0.6,7.93,7.63
+HI,Honolulu,6,0.6,11.79,27.92
+LA,Houma,6,0.6,4.29,11.44
+TX,Houston,6,0.6,8.39,13.82
+FL,Hudson,6,0.6,9.42,15.8
+WV,Huntington,6,0.6,6.13,8.02
+AL,Huntsville,6,0.6,7.43,15.46
+ID,Idaho Falls,6,0.6,5.2,12.38
+IN,Indianapolis,6,0.6,5.57,9.91
+IA,Iowa City,6,0.6,4.32,7.8
+MS,Jackson,6,0.6,3.36,9.53
+TN,Jackson,6,0.6,5.13,8.33
+FL,Jacksonville,6,0.6,6.86,13.09
+TN,Johnson City,6,0.6,5.8,11.1
+PA,Johnstown,6,0.6,3.45,13.12
+IL,Joliet,6,0.6,6.45,17.17
+AR,Jonesboro,6,0.6,3.87,14.7
+MO,Joplin,6,0.6,4.72,7.38
+MI,Kalamazoo,6,0.6,6.39,44.81
+MO,Kansas City,6,0.6,6.12,12.14
+OH,Kettering,6,0.6,6.84,14.64
+TN,Kingsport,6,0.6,4.81,9.49
+TN,Knoxville,6,0.6,7.82,27.74
+WI,La Crosse,6,0.6,8.24,11.66
+IN,Lafayette,6,0.6,8.48,24.71
+LA,Lafayette,6,0.6,5.65,9.71
+LA,Lake Charles,6,0.6,4.12,8.48
+FL,Lakeland,6,0.6,7.04,10.35
+PA,Lancaster,6,0.6,9.5,24.18
+MI,Lansing,6,0.6,7.37,8.67
+NV,Las Vegas,6,0.6,13.03,18.78
+OK,Lawton,6,0.6,3.67,8.5
+NH,Lebanon,6,0.6,8.2,10.77
+KY,Lexington,6,0.6,4.8,12.44
+NE,Lincoln,6,0.6,3.79,25.21
+AR,Little Rock,6,0.6,4.69,12.53
+TX,Longview,6,0.6,13.81,13.95
+CA,Los Angeles,6,0.6,9.81,14.5
+KY,Louisville,6,0.6,6.8,15.1
+TX,Lubbock,6,0.6,4.88,11.24
+VA,Lynchburg,6,0.6,5.96,20.2
+GA,Macon,6,0.6,5.49,17.93
+WI,Madison,6,0.6,8.79,13.06
+NH,Manchester,6,0.6,10.27,24.36
+NY,Manhattan,6,0.6,11.27,11.91
+MI,Marquette,6,0.6,4.93,16.72
+WI,Marshfield,6,0.6,8.95,16.32
+IA,Mason City,6,0.6,3.62,32.17
+TX,McAllen,6,0.6,4.69,6.29
+OR,Medford,6,0.6,8.22,27.2
+IL,Melrose Park,6,0.6,7.61,13.31
+TN,Memphis,6,0.6,5.53,17.39
+MS,Meridian,6,0.6,2.8,14.32
+AZ,Mesa,6,0.6,14.57,18.74
+LA,Metairie,6,0.6,7.57,15.16
+FL,Miami,6,0.6,7.74,17.53
+WI,Milwaukee,6,0.6,7.82,11.42
+MN,Minneapolis,6,0.6,8.69,19.22
+ND,Minot,6,0.6,2.42,21.89
+MT,Missoula,6,0.6,5.88,15.1
+AL,Mobile,6,0.6,7.84,11.69
+CA,Modesto,6,0.6,12.06,27.25
+LA,Monroe,6,0.6,3.05,10.28
+AL,Montgomery,6,0.6,6.51,10.56
+WV,Morgantown,6,0.6,5.54,15
+NJ,Morristown,6,0.6,11.28,26.54
+IN,Muncie,6,0.6,8.4,29.5
+IN,Munster,6,0.6,3.11,10.19
+MI,Muskegon,6,0.6,6.98,9.63
+CA,Napa,6,0.6,12.26,10.05
+TN,Nashville,6,0.6,6.33,12.74
+WI,Neenah,6,0.6,6.15,13.96
+NJ,New Brunswick,6,0.6,11.38,11.89
+CT,New Haven,6,0.6,16.19,18.14
+LA,New Orleans,6,0.6,5.25,12.56
+NJ,Newark,6,0.6,9.8,10.97
+VA,Newport News,6,0.6,14.9,17.93
+VA,Norfolk,6,0.6,10.79,21.85
+FL,Ocala,6,0.6,14.26,19.29
+TX,Odessa,6,0.6,4.27,12.84
+UT,Ogden,6,0.6,7.82,14.48
+OK,Oklahoma City,6,0.6,5.07,11.81
+WA,Olympia,6,0.6,15.62,23.6
+NE,Omaha,6,0.6,4.84,9.85
+CA,Orange County,6,0.6,9.83,15.93
+FL,Orlando,6,0.6,8.05,12.97
+FL,Ormond Beach,6,0.6,8.33,10.89
+KY,Owensboro,6,0.6,5.41,14.79
+MS,Oxford,6,0.6,2.83,13.87
+KY,Paducah,6,0.6,3.17,9.58
+CA,Palm Springs/Rancho Mira,6,0.6,6.64,26.61
+NJ,Paterson,6,0.6,4.91,46.42
+FL,Pensacola,6,0.6,7.07,12.69
+IL,Peoria,6,0.6,6.17,12.24
+MI,Petoskey,6,0.6,6.9,12.45
+PA,Philadelphia,6,0.6,7.63,10.9
+AZ,Phoenix,6,0.6,8.96,11.89
+PA,Pittsburgh,6,0.6,7.2,10.32
+MI,Pontiac,6,0.6,9.76,13.71
+ME,Portland,6,0.6,10.42,17.57
+OR,Portland,6,0.6,10.6,14.19
+RI,Providence,6,0.6,11.93,21.62
+UT,Provo,6,0.6,9.1,13.96
+CO,Pueblo,6,0.6,4.94,37
+NC,Raleigh,6,0.6,12.21,18.14
+SD,Rapid City,6,0.6,4.26,15.9
+PA,Reading,6,0.6,7.03,17.08
+CA,Redding,6,0.6,8.25,8.88
+NV,Reno,6,0.6,7.71,8.64
+VA,Richmond,6,0.6,7.87,17.44
+NJ,Ridgewood,6,0.6,10.27,17.34
+VA,Roanoke,6,0.6,8.12,9.33
+MN,Rochester,6,0.6,4.56,6.58
+NY,Rochester,6,0.6,10.5,21.6
+IL,Rockford,6,0.6,7.58,10.52
+GA,Rome,6,0.6,8.12,25.19
+MI,Royal Oak,6,0.6,5.45,10.46
+CA,Sacramento,6,0.6,13.17,16.63
+MI,Saginaw,6,0.6,4.36,14.79
+OR,Salem,6,0.6,13.85,46
+CA,Salinas,6,0.6,8.63,14.35
+MD,Salisbury,6,0.6,17.13,27.58
+UT,Salt Lake City,6,0.6,7.07,9.72
+TX,San Angelo,6,0.6,3.27,13.47
+TX,San Antonio,6,0.6,7.3,17.8
+CA,San Bernardino,6,0.6,9.26,17.91
+CA,San Diego,6,0.6,12.69,14.63
+CA,San Francisco,6,0.6,9.28,11.16
+CA,San Jose,6,0.6,13.06,17.31
+CA,San Luis Obispo,6,0.6,8.93,11.91
+CA,San Mateo County,6,0.6,12.29,13.57
+CA,Santa Barbara,6,0.6,12.15,18.31
+CA,Santa Cruz,6,0.6,11.21,67.17
+CA,Santa Rosa,6,0.6,11.1,16.47
+FL,Sarasota,6,0.6,5.71,10.7
+GA,Savannah,6,0.6,9.02,23.02
+PA,Sayre,6,0.6,6.07,10.29
+PA,Scranton,6,0.6,6.7,15.52
+WA,Seattle,6,0.6,14.64,20.36
+LA,Shreveport,6,0.6,4.12,8.68
+IA,Sioux City,6,0.6,4.54,15.57
+SD,Sioux Falls,6,0.6,3.07,21.25
+LA,Slidell,6,0.6,3.73,3.93
+IN,South Bend,6,0.6,8.19,13.91
+SC,Spartanburg,6,0.6,9.04,8.48
+WA,Spokane,6,0.6,6.13,16.43
+AR,Springdale,6,0.6,5.88,10.58
+IL,Springfield,6,0.6,4.61,14.99
+MA,Springfield,6,0.6,10.06,14.92
+MO,Springfield,6,0.6,7.16,19.33
+MN,St. Cloud,6,0.6,7.44,22.69
+MI,St. Joseph,6,0.6,3.94,22.89
+MO,St. Louis,6,0.6,5.15,8.8
+MN,St. Paul,6,0.6,12.15,31.35
+FL,St. Petersburg,6,0.6,4.96,20.48
+CA,Stockton,6,0.6,11.63,19.78
+AZ,Sun City,6,0.6,6.05,6.57
+NY,Syracuse,6,0.6,7.33,19.51
+WA,Tacoma,6,0.6,14.47,18.15
+MD,Takoma Park,6,0.6,22,28.38
+FL,Tallahassee,6,0.6,9.18,23.6
+FL,Tampa,6,0.6,7.54,12.63
+TX,Temple,6,0.6,8.57,14
+IN,Terre Haute,6,0.6,5.67,6.86
+AR,Texarkana,6,0.6,4.37,5.89
+OH,Toledo,6,0.6,5.73,7.77
+KS,Topeka,6,0.6,4.95,12.92
+MI,Traverse City,6,0.6,5.6,52.57
+AZ,Tucson,6,0.6,6.98,11.31
+OK,Tulsa,6,0.6,5.02,12.14
+MS,Tupelo,6,0.6,3.15,9.11
+AL,Tuscaloosa,6,0.6,5.99,10.24
+TX,Tyler,6,0.6,7.02,6.38
+IL,Urbana,6,0.6,6.28,11.98
+CA,Ventura,6,0.6,20.01,12.68
+TX,Victoria,6,0.6,2.76,11.78
+TX,Waco,6,0.6,8.49,20
+DC,Washington,6,0.6,11.29,17.57
+IA,Waterloo,6,0.6,4.16,16.21
+WI,Wausau,6,0.6,8.44,6.29
+NY,White Plains,6,0.6,12.55,11.8
+TX,Wichita Falls,6,0.6,4.35,35.13
+KS,Wichita,6,0.6,3.59,8.58
+PA,Wilkes-Barre,6,0.6,6.41,15.46
+DE,Wilmington,6,0.6,8.82,18.34
+NC,Wilmington,6,0.6,13.05,42.41
+VA,Winchester,6,0.6,8.25,29.09
+NC,Winston-Salem,6,0.6,9,41.4
+MA,Worcester,6,0.6,12.76,27.02
+WA,Yakima,6,0.6,9.17,11.91
+PA,York,6,0.6,10.82,78.63
+OH,Youngstown,6,0.6,7.78,14.2
+OH,Akron,12,0.2,1.47,1.76
+CA,Alameda County,12,0.2,2.7,2.73
+GA,Albany,12,0.2,0.99,1.74
+NY,Albany,12,0.2,1.31,2.34
+NM,Albuquerque,12,0.2,1.7,2.52
+LA,Alexandria,12,0.2,0.77,3.35
+PA,Allentown,12,0.2,1.06,2.06
+PA,Altoona,12,0.2,1.42,2.7
+TX,Amarillo,12,0.2,0.68,1.24
+AK,Anchorage,12,0.2,1.4,2.82
+MI,Ann Arbor,12,0.2,1.76,2.71
+WI,Appleton,12,0.2,1.6,2.08
+VA,Arlington,12,0.2,2.6,3.13
+NC,Asheville,12,0.2,1.43,2.33
+GA,Atlanta,12,0.2,2.06,3.33
+GA,Augusta,12,0.2,0.9,1.53
+IL,Aurora,12,0.2,1.16,2.76
+TX,Austin,12,0.2,2.06,2.66
+CA,Bakersfield,12,0.2,1.66,2.74
+MD,Baltimore,12,0.2,1.48,1.98
+ME,Bangor,12,0.2,1.13,3.57
+LA,Baton Rouge,12,0.2,0.89,1.83
+TX,Beaumont,12,0.2,1.18,2.49
+OR,Bend,12,0.2,1.48,3.53
+MT,Billings,12,0.2,0.71,2.22
+NY,Binghamton,12,0.2,1.11,5.24
+AL,Birmingham,12,0.2,0.9,1.57
+ND,Bismarck,12,0.2,0.61,1.3
+IL,Bloomington,12,0.2,1.09,4.6
+IL,Blue Island,12,0.2,1.6,1.71
+ID,Boise,12,0.2,1.15,2.2
+MA,Boston,12,0.2,2.19,2.75
+CO,Boulder,12,0.2,1.23,1.79
+FL,Bradenton,12,0.2,1.14,1.82
+CT,Bridgeport,12,0.2,2.02,2.46
+NY,Bronx,12,0.2,1.85,2.74
+TX,Bryan,12,0.2,0.99,1.91
+NY,Buffalo,12,0.2,1.25,3.51
+VT,Burlington,12,0.2,1.24,2.42
+NJ,Camden,12,0.2,1.35,2.32
+OH,Canton,12,0.2,0.99,1.59
+MO,Cape Girardeau,12,0.2,0.72,1.44
+WY,Casper,12,0.2,0.57,2.3
+IA,Cedar Rapids,12,0.2,0.9,3.23
+SC,Charleston,12,0.2,1.32,2.76
+WV,Charleston,12,0.2,0.79,2.09
+NC,Charlotte,12,0.2,1.9,2.39
+VA,Charlottesville,12,0.2,1.55,4.14
+TN,Chattanooga,12,0.2,1.22,2.93
+IL,Chicago,12,0.2,0.88,1.87
+CA,Chico,12,0.2,2.21,3.22
+OH,Cincinnati,12,0.2,1.17,2.08
+FL,Clearwater,12,0.2,0.88,3.27
+OH,Cleveland,12,0.2,0.86,1.61
+CO,Colorado Springs,12,0.2,1.67,3.19
+MO,Columbia,12,0.2,0.87,2.19
+SC,Columbia,12,0.2,1.29,1.93
+GA,Columbus,12,0.2,0.71,2.48
+OH,Columbus,12,0.2,1.19,3.03
+CA,Contra Costa County,12,0.2,1.73,3.1
+TX,Corpus Christi,12,0.2,1.71,3.45
+KY,Covington,12,0.2,1.61,2.46
+TX,Dallas,12,0.2,1.45,2.49
+PA,Danville,12,0.2,1.32,4.42
+IA,Davenport,12,0.2,0.77,1.77
+OH,Dayton,12,0.2,1.55,2.83
+MI,Dearborn,12,0.2,1.15,1.21
+CO,Denver,12,0.2,1.43,2.11
+IA,Des Moines,12,0.2,1.01,3.42
+MI,Detroit,12,0.2,1.37,2.41
+AL,Dothan,12,0.2,0.81,2.73
+IA,Dubuque,12,0.2,0.78,4.88
+MN,Duluth,12,0.2,0.76,1.16
+NC,Durham,12,0.2,1.36,1.38
+NY,East Long Island,12,0.2,4.31,4.86
+TX,El Paso,12,0.2,1.54,4.82
+IL,Elgin,12,0.2,1.76,2.64
+NY,Elmira,12,0.2,1,5.64
+OH,Elyria,12,0.2,1.32,2.9
+PA,Erie,12,0.2,1.12,1.98
+OR,Eugene,12,0.2,2.05,2.94
+IL,Evanston,12,0.2,1.51,1.61
+IN,Evansville,12,0.2,0.71,1.03
+WA,Everett,12,0.2,2.36,6.23
+ND,Fargo/Moorhead MN,12,0.2,0.82,2.73
+MI,Flint,12,0.2,1.3,2.24
+SC,Florence,12,0.2,0.84,1.11
+CO,Fort Collins,12,0.2,1.16,6
+FL,Fort Lauderdale,12,0.2,1.25,2.61
+FL,Fort Myers,12,0.2,1.47,3.84
+AR,Fort Smith,12,0.2,0.82,1.58
+IN,Fort Wayne,12,0.2,0.88,1.38
+TX,Fort Worth,12,0.2,1.72,2.72
+CA,Fresno,12,0.2,2.3,3.44
+FL,Gainesville,12,0.2,1.38,1.6
+IN,Gary,12,0.2,0.86,1.25
+ND,Grand Forks,12,0.2,0.48,2.17
+CO,Grand Junction,12,0.2,1.18,2.48
+MI,Grand Rapids,12,0.2,1.35,3.21
+MT,Great Falls,12,0.2,0.44,1.3
+CO,Greeley,12,0.2,1.03,3.14
+WI,Green Bay,12,0.2,1.14,2.86
+NC,Greensboro,12,0.2,1.94,3.23
+NC,Greenville,12,0.2,1.5,1.78
+SC,Greenville,12,0.2,1.3,5.49
+MS,Gulfport,12,0.2,0.77,1.18
+NJ,Hackensack,12,0.2,1.38,3.19
+TX,Harlingen,12,0.2,1.08,2.82
+PA,Harrisburg,12,0.2,1.25,4.16
+CT,Hartford,12,0.2,2.23,3.15
+MS,Hattiesburg,12,0.2,0.66,2.4
+NC,Hickory,12,0.2,1.28,2.84
+IL,Hinsdale,12,0.2,1.32,1.27
+HI,Honolulu,12,0.2,1.96,4.66
+LA,Houma,12,0.2,0.71,1.91
+TX,Houston,12,0.2,1.4,2.3
+FL,Hudson,12,0.2,1.57,2.62
+WV,Huntington,12,0.2,1.02,1.34
+AL,Huntsville,12,0.2,1.24,2.58
+ID,Idaho Falls,12,0.2,0.87,2.04
+IN,Indianapolis,12,0.2,0.93,1.65
+IA,Iowa City,12,0.2,0.72,1.3
+MS,Jackson,12,0.2,0.56,1.59
+TN,Jackson,12,0.2,0.85,1.39
+FL,Jacksonville,12,0.2,1.14,2.18
+TN,Johnson City,12,0.2,0.97,1.85
+PA,Johnstown,12,0.2,0.58,2.2
+IL,Joliet,12,0.2,1.08,2.87
+AR,Jonesboro,12,0.2,0.65,2.43
+MO,Joplin,12,0.2,0.79,1.23
+MI,Kalamazoo,12,0.2,1.06,7.48
+MO,Kansas City,12,0.2,1.02,2.02
+OH,Kettering,12,0.2,1.14,2.43
+TN,Kingsport,12,0.2,0.8,1.59
+TN,Knoxville,12,0.2,1.3,4.62
+WI,La Crosse,12,0.2,1.37,1.95
+IN,Lafayette,12,0.2,1.41,4.14
+LA,Lafayette,12,0.2,0.94,1.62
+LA,Lake Charles,12,0.2,0.69,1.41
+FL,Lakeland,12,0.2,1.17,1.72
+PA,Lancaster,12,0.2,1.58,4.03
+MI,Lansing,12,0.2,1.23,1.44
+NV,Las Vegas,12,0.2,2.17,3.13
+OK,Lawton,12,0.2,0.61,1.41
+NH,Lebanon,12,0.2,1.37,1.8
+KY,Lexington,12,0.2,0.8,2.08
+NE,Lincoln,12,0.2,0.63,4.21
+AR,Little Rock,12,0.2,0.78,2.09
+TX,Longview,12,0.2,2.3,2.33
+CA,Los Angeles,12,0.2,1.63,2.42
+KY,Louisville,12,0.2,1.13,2.52
+TX,Lubbock,12,0.2,0.81,1.87
+VA,Lynchburg,12,0.2,0.99,3.35
+GA,Macon,12,0.2,0.91,2.98
+WI,Madison,12,0.2,1.47,2.17
+NH,Manchester,12,0.2,1.71,4.06
+NY,Manhattan,12,0.2,1.88,1.99
+MI,Marquette,12,0.2,0.82,2.78
+WI,Marshfield,12,0.2,1.49,2.71
+IA,Mason City,12,0.2,0.6,5.33
+TX,McAllen,12,0.2,0.78,1.05
+OR,Medford,12,0.2,1.37,4.52
+IL,Melrose Park,12,0.2,1.27,2.22
+TN,Memphis,12,0.2,0.92,2.9
+MS,Meridian,12,0.2,0.47,2.37
+AZ,Mesa,12,0.2,2.43,3.12
+LA,Metairie,12,0.2,1.26,2.52
+FL,Miami,12,0.2,1.29,2.92
+WI,Milwaukee,12,0.2,1.3,1.9
+MN,Minneapolis,12,0.2,1.45,3.2
+ND,Minot,12,0.2,0.4,3.67
+MT,Missoula,12,0.2,0.98,2.51
+AL,Mobile,12,0.2,1.31,1.95
+CA,Modesto,12,0.2,2.01,4.55
+LA,Monroe,12,0.2,0.51,1.72
+AL,Montgomery,12,0.2,1.08,1.75
+WV,Morgantown,12,0.2,0.92,2.5
+NJ,Morristown,12,0.2,1.88,4.43
+IN,Muncie,12,0.2,1.4,4.88
+IN,Munster,12,0.2,0.52,1.69
+MI,Muskegon,12,0.2,1.16,1.6
+CA,Napa,12,0.2,2.05,1.68
+TN,Nashville,12,0.2,1.06,2.12
+WI,Neenah,12,0.2,1.02,2.32
+NJ,New Brunswick,12,0.2,1.9,1.98
+CT,New Haven,12,0.2,2.7,3.03
+LA,New Orleans,12,0.2,0.87,2.09
+NJ,Newark,12,0.2,1.63,1.83
+VA,Newport News,12,0.2,2.48,3
+VA,Norfolk,12,0.2,1.8,3.65
+FL,Ocala,12,0.2,2.38,3.22
+TX,Odessa,12,0.2,0.71,2.13
+UT,Ogden,12,0.2,1.3,2.4
+OK,Oklahoma City,12,0.2,0.84,1.97
+WA,Olympia,12,0.2,2.6,3.92
+NE,Omaha,12,0.2,0.81,1.64
+CA,Orange County,12,0.2,1.64,2.66
+FL,Orlando,12,0.2,1.34,2.16
+FL,Ormond Beach,12,0.2,1.39,1.81
+KY,Owensboro,12,0.2,0.9,2.43
+MS,Oxford,12,0.2,0.47,2.33
+KY,Paducah,12,0.2,0.53,1.6
+CA,Palm Springs/Rancho Mira,12,0.2,1.11,4.43
+NJ,Paterson,12,0.2,0.82,7.75
+FL,Pensacola,12,0.2,1.18,2.12
+IL,Peoria,12,0.2,1.03,2.04
+MI,Petoskey,12,0.2,1.15,2.09
+PA,Philadelphia,12,0.2,1.27,1.82
+AZ,Phoenix,12,0.2,1.49,1.98
+PA,Pittsburgh,12,0.2,1.2,1.72
+MI,Pontiac,12,0.2,1.63,2.29
+ME,Portland,12,0.2,1.74,2.92
+OR,Portland,12,0.2,1.77,2.36
+RI,Providence,12,0.2,1.99,3.6
+UT,Provo,12,0.2,1.52,2.33
+CO,Pueblo,12,0.2,0.82,6.14
+NC,Raleigh,12,0.2,2.04,3.03
+SD,Rapid City,12,0.2,0.71,2.65
+PA,Reading,12,0.2,1.17,2.84
+CA,Redding,12,0.2,1.38,1.48
+NV,Reno,12,0.2,1.28,1.44
+VA,Richmond,12,0.2,1.31,2.91
+NJ,Ridgewood,12,0.2,1.71,2.89
+VA,Roanoke,12,0.2,1.35,1.56
+MN,Rochester,12,0.2,0.76,1.1
+NY,Rochester,12,0.2,1.75,3.6
+IL,Rockford,12,0.2,1.26,1.75
+GA,Rome,12,0.2,1.35,4.19
+MI,Royal Oak,12,0.2,0.91,1.74
+CA,Sacramento,12,0.2,2.19,2.77
+MI,Saginaw,12,0.2,0.73,2.46
+OR,Salem,12,0.2,2.31,7.7
+CA,Salinas,12,0.2,1.44,2.41
+MD,Salisbury,12,0.2,2.86,4.62
+UT,Salt Lake City,12,0.2,1.18,1.62
+TX,San Angelo,12,0.2,0.54,2.24
+TX,San Antonio,12,0.2,1.22,2.97
+CA,San Bernardino,12,0.2,1.54,2.99
+CA,San Diego,12,0.2,2.11,2.44
+CA,San Francisco,12,0.2,1.55,1.86
+CA,San Jose,12,0.2,2.18,2.88
+CA,San Luis Obispo,12,0.2,1.49,2
+CA,San Mateo County,12,0.2,2.05,2.26
+CA,Santa Barbara,12,0.2,2.02,3.06
+CA,Santa Cruz,12,0.2,1.87,11.17
+CA,Santa Rosa,12,0.2,1.85,2.76
+FL,Sarasota,12,0.2,0.95,1.78
+GA,Savannah,12,0.2,1.5,3.84
+PA,Sayre,12,0.2,1.01,1.71
+PA,Scranton,12,0.2,1.12,2.58
+WA,Seattle,12,0.2,2.44,3.39
+LA,Shreveport,12,0.2,0.69,1.45
+IA,Sioux City,12,0.2,0.76,2.61
+SD,Sioux Falls,12,0.2,0.51,3.54
+LA,Slidell,12,0.2,0.62,0.66
+IN,South Bend,12,0.2,1.36,2.31
+SC,Spartanburg,12,0.2,1.51,1.42
+WA,Spokane,12,0.2,1.02,2.74
+AR,Springdale,12,0.2,0.98,1.77
+IL,Springfield,12,0.2,0.77,2.49
+MA,Springfield,12,0.2,1.68,2.49
+MO,Springfield,12,0.2,1.19,3.22
+MN,St. Cloud,12,0.2,1.24,3.75
+MI,St. Joseph,12,0.2,0.66,3.78
+MO,St. Louis,12,0.2,0.86,1.47
+MN,St. Paul,12,0.2,2.03,5.23
+FL,St. Petersburg,12,0.2,0.83,3.42
+CA,Stockton,12,0.2,1.94,3.29
+AZ,Sun City,12,0.2,1.01,1.1
+NY,Syracuse,12,0.2,1.22,3.25
+WA,Tacoma,12,0.2,2.41,3.02
+MD,Takoma Park,12,0.2,3.67,4.73
+FL,Tallahassee,12,0.2,1.53,3.94
+FL,Tampa,12,0.2,1.26,2.1
+TX,Temple,12,0.2,1.43,2.34
+IN,Terre Haute,12,0.2,0.95,1.14
+AR,Texarkana,12,0.2,0.73,0.98
+OH,Toledo,12,0.2,0.95,1.3
+KS,Topeka,12,0.2,0.82,2.16
+MI,Traverse City,12,0.2,0.93,8.71
+AZ,Tucson,12,0.2,1.16,1.89
+OK,Tulsa,12,0.2,0.84,2.03
+MS,Tupelo,12,0.2,0.53,1.52
+AL,Tuscaloosa,12,0.2,1,1.7
+TX,Tyler,12,0.2,1.17,1.06
+IL,Urbana,12,0.2,1.05,2
+CA,Ventura,12,0.2,3.33,2.12
+TX,Victoria,12,0.2,0.46,1.94
+TX,Waco,12,0.2,1.41,3.33
+DC,Washington,12,0.2,1.88,2.93
+IA,Waterloo,12,0.2,0.69,2.68
+WI,Wausau,12,0.2,1.41,1.04
+NY,White Plains,12,0.2,2.09,1.97
+TX,Wichita Falls,12,0.2,0.72,5.88
+KS,Wichita,12,0.2,0.6,1.43
+PA,Wilkes-Barre,12,0.2,1.07,2.58
+DE,Wilmington,12,0.2,1.47,3.05
+NC,Wilmington,12,0.2,2.18,7.06
+VA,Winchester,12,0.2,1.38,4.86
+NC,Winston-Salem,12,0.2,1.5,6.9
+MA,Worcester,12,0.2,2.13,4.51
+WA,Yakima,12,0.2,1.53,1.97
+PA,York,12,0.2,1.81,13.13
+OH,Youngstown,12,0.2,1.3,2.36
+OH,Akron,12,0.4,2.95,3.52
+CA,Alameda County,12,0.4,5.4,5.47
+GA,Albany,12,0.4,1.98,3.48
+NY,Albany,12,0.4,2.63,4.68
+NM,Albuquerque,12,0.4,3.39,5.04
+LA,Alexandria,12,0.4,1.54,6.65
+PA,Allentown,12,0.4,2.13,4.1
+PA,Altoona,12,0.4,2.85,5.44
+TX,Amarillo,12,0.4,1.36,2.49
+AK,Anchorage,12,0.4,2.8,5.64
+MI,Ann Arbor,12,0.4,3.53,5.43
+WI,Appleton,12,0.4,3.2,4.16
+VA,Arlington,12,0.4,5.21,6.25
+NC,Asheville,12,0.4,2.85,4.66
+GA,Atlanta,12,0.4,4.12,6.65
+GA,Augusta,12,0.4,1.81,3.06
+IL,Aurora,12,0.4,2.33,5.56
+TX,Austin,12,0.4,4.11,5.34
+CA,Bakersfield,12,0.4,3.33,5.48
+MD,Baltimore,12,0.4,2.96,3.95
+ME,Bangor,12,0.4,2.27,7.14
+LA,Baton Rouge,12,0.4,1.77,3.66
+TX,Beaumont,12,0.4,2.36,4.98
+OR,Bend,12,0.4,2.97,7.06
+MT,Billings,12,0.4,1.43,4.43
+NY,Binghamton,12,0.4,2.22,10.47
+AL,Birmingham,12,0.4,1.8,3.14
+ND,Bismarck,12,0.4,1.21,2.58
+IL,Bloomington,12,0.4,2.19,9.3
+IL,Blue Island,12,0.4,3.21,3.42
+ID,Boise,12,0.4,2.3,4.41
+MA,Boston,12,0.4,4.39,5.5
+CO,Boulder,12,0.4,2.46,3.58
+FL,Bradenton,12,0.4,2.28,3.63
+CT,Bridgeport,12,0.4,4.04,4.94
+NY,Bronx,12,0.4,3.7,5.47
+TX,Bryan,12,0.4,1.97,3.82
+NY,Buffalo,12,0.4,2.49,7.01
+VT,Burlington,12,0.4,2.48,4.83
+NJ,Camden,12,0.4,2.71,4.63
+OH,Canton,12,0.4,1.98,3.16
+MO,Cape Girardeau,12,0.4,1.43,2.91
+WY,Casper,12,0.4,1.13,4.65
+IA,Cedar Rapids,12,0.4,1.8,6.45
+SC,Charleston,12,0.4,2.63,5.52
+WV,Charleston,12,0.4,1.58,4.2
+NC,Charlotte,12,0.4,3.81,4.77
+VA,Charlottesville,12,0.4,3.09,8.31
+TN,Chattanooga,12,0.4,2.44,5.86
+IL,Chicago,12,0.4,1.76,3.75
+CA,Chico,12,0.4,4.42,6.43
+OH,Cincinnati,12,0.4,2.33,4.16
+FL,Clearwater,12,0.4,1.76,6.55
+OH,Cleveland,12,0.4,1.71,3.22
+CO,Colorado Springs,12,0.4,3.35,6.39
+MO,Columbia,12,0.4,1.73,4.39
+SC,Columbia,12,0.4,2.58,3.87
+GA,Columbus,12,0.4,1.41,4.97
+OH,Columbus,12,0.4,2.38,6.06
+CA,Contra Costa County,12,0.4,3.47,6.2
+TX,Corpus Christi,12,0.4,3.42,6.89
+KY,Covington,12,0.4,3.22,4.92
+TX,Dallas,12,0.4,2.9,4.97
+PA,Danville,12,0.4,2.64,8.85
+IA,Davenport,12,0.4,1.53,3.56
+OH,Dayton,12,0.4,3.09,5.66
+MI,Dearborn,12,0.4,2.31,2.42
+CO,Denver,12,0.4,2.87,4.23
+IA,Des Moines,12,0.4,2.03,6.84
+MI,Detroit,12,0.4,2.74,4.82
+AL,Dothan,12,0.4,1.62,5.42
+IA,Dubuque,12,0.4,1.55,9.75
+MN,Duluth,12,0.4,1.53,2.33
+NC,Durham,12,0.4,2.72,2.75
+NY,East Long Island,12,0.4,8.62,9.73
+TX,El Paso,12,0.4,3.07,9.65
+IL,Elgin,12,0.4,3.53,5.3
+NY,Elmira,12,0.4,1.99,11.29
+OH,Elyria,12,0.4,2.63,5.86
+PA,Erie,12,0.4,2.25,3.95
+OR,Eugene,12,0.4,4.11,5.86
+IL,Evanston,12,0.4,3.02,3.22
+IN,Evansville,12,0.4,1.42,2.06
+WA,Everett,12,0.4,4.72,12.46
+ND,Fargo/Moorhead MN,12,0.4,1.65,5.46
+MI,Flint,12,0.4,2.61,4.47
+SC,Florence,12,0.4,1.68,2.23
+CO,Fort Collins,12,0.4,2.31,11.93
+FL,Fort Lauderdale,12,0.4,2.49,5.23
+FL,Fort Myers,12,0.4,2.94,7.67
+AR,Fort Smith,12,0.4,1.63,3.15
+IN,Fort Wayne,12,0.4,1.75,2.75
+TX,Fort Worth,12,0.4,3.44,5.43
+CA,Fresno,12,0.4,4.59,6.88
+FL,Gainesville,12,0.4,2.77,3.2
+IN,Gary,12,0.4,1.72,2.51
+ND,Grand Forks,12,0.4,0.97,4.33
+CO,Grand Junction,12,0.4,2.36,5
+MI,Grand Rapids,12,0.4,2.7,6.43
+MT,Great Falls,12,0.4,0.88,2.63
+CO,Greeley,12,0.4,2.06,6.25
+WI,Green Bay,12,0.4,2.27,5.74
+NC,Greensboro,12,0.4,3.89,6.47
+NC,Greenville,12,0.4,3,3.56
+SC,Greenville,12,0.4,2.6,10.98
+MS,Gulfport,12,0.4,1.54,2.35
+NJ,Hackensack,12,0.4,2.75,6.38
+TX,Harlingen,12,0.4,2.16,5.61
+PA,Harrisburg,12,0.4,2.5,8.33
+CT,Hartford,12,0.4,4.45,6.3
+MS,Hattiesburg,12,0.4,1.32,4.77
+NC,Hickory,12,0.4,2.55,5.64
+IL,Hinsdale,12,0.4,2.64,2.54
+HI,Honolulu,12,0.4,3.93,9.32
+LA,Houma,12,0.4,1.43,3.81
+TX,Houston,12,0.4,2.8,4.61
+FL,Hudson,12,0.4,3.14,5.27
+WV,Huntington,12,0.4,2.04,2.67
+AL,Huntsville,12,0.4,2.48,5.15
+ID,Idaho Falls,12,0.4,1.73,4.13
+IN,Indianapolis,12,0.4,1.86,3.3
+IA,Iowa City,12,0.4,1.44,2.59
+MS,Jackson,12,0.4,1.12,3.17
+TN,Jackson,12,0.4,1.71,2.77
+FL,Jacksonville,12,0.4,2.29,4.36
+TN,Johnson City,12,0.4,1.94,3.69
+PA,Johnstown,12,0.4,1.15,4.36
+IL,Joliet,12,0.4,2.15,5.72
+AR,Jonesboro,12,0.4,1.29,4.91
+MO,Joplin,12,0.4,1.57,2.46
+MI,Kalamazoo,12,0.4,2.13,14.95
+MO,Kansas City,12,0.4,2.04,4.05
+OH,Kettering,12,0.4,2.28,4.88
+TN,Kingsport,12,0.4,1.6,3.16
+TN,Knoxville,12,0.4,2.61,9.24
+WI,La Crosse,12,0.4,2.74,3.89
+IN,Lafayette,12,0.4,2.83,8.21
+LA,Lafayette,12,0.4,1.88,3.24
+LA,Lake Charles,12,0.4,1.37,2.82
+FL,Lakeland,12,0.4,2.35,3.46
+PA,Lancaster,12,0.4,3.17,8.05
+MI,Lansing,12,0.4,2.46,2.89
+NV,Las Vegas,12,0.4,4.34,6.26
+OK,Lawton,12,0.4,1.22,2.84
+NH,Lebanon,12,0.4,2.73,3.59
+KY,Lexington,12,0.4,1.6,4.15
+NE,Lincoln,12,0.4,1.26,8.39
+AR,Little Rock,12,0.4,1.56,4.18
+TX,Longview,12,0.4,4.6,4.67
+CA,Los Angeles,12,0.4,3.27,4.83
+KY,Louisville,12,0.4,2.27,5.03
+TX,Lubbock,12,0.4,1.63,3.74
+VA,Lynchburg,12,0.4,1.99,6.75
+GA,Macon,12,0.4,1.83,5.98
+WI,Madison,12,0.4,2.93,4.36
+NH,Manchester,12,0.4,3.42,8.11
+NY,Manhattan,12,0.4,3.76,3.97
+MI,Marquette,12,0.4,1.64,5.56
+WI,Marshfield,12,0.4,2.98,5.44
+IA,Mason City,12,0.4,1.21,10.67
+TX,McAllen,12,0.4,1.56,2.1
+OR,Medford,12,0.4,2.74,9.08
+IL,Melrose Park,12,0.4,2.54,4.44
+TN,Memphis,12,0.4,1.84,5.8
+MS,Meridian,12,0.4,0.93,4.79
+AZ,Mesa,12,0.4,4.85,6.25
+LA,Metairie,12,0.4,2.52,5.05
+FL,Miami,12,0.4,2.58,5.84
+WI,Milwaukee,12,0.4,2.6,3.81
+MN,Minneapolis,12,0.4,2.9,6.41
+ND,Minot,12,0.4,0.8,7.33
+MT,Missoula,12,0.4,1.96,5.03
+AL,Mobile,12,0.4,2.61,3.9
+CA,Modesto,12,0.4,4.02,9.09
+LA,Monroe,12,0.4,1.02,3.42
+AL,Montgomery,12,0.4,2.17,3.52
+WV,Morgantown,12,0.4,1.85,5
+NJ,Morristown,12,0.4,3.76,8.85
+IN,Muncie,12,0.4,2.8,9.88
+IN,Munster,12,0.4,1.04,3.4
+MI,Muskegon,12,0.4,2.33,3.2
+CA,Napa,12,0.4,4.09,3.34
+TN,Nashville,12,0.4,2.11,4.25
+WI,Neenah,12,0.4,2.05,4.64
+NJ,New Brunswick,12,0.4,3.79,3.96
+CT,New Haven,12,0.4,5.4,6.04
+LA,New Orleans,12,0.4,1.75,4.18
+NJ,Newark,12,0.4,3.27,3.66
+VA,Newport News,12,0.4,4.97,5.98
+VA,Norfolk,12,0.4,3.6,7.28
+FL,Ocala,12,0.4,4.75,6.43
+TX,Odessa,12,0.4,1.43,4.29
+UT,Ogden,12,0.4,2.61,4.83
+OK,Oklahoma City,12,0.4,1.69,3.94
+WA,Olympia,12,0.4,5.21,7.88
+NE,Omaha,12,0.4,1.61,3.28
+CA,Orange County,12,0.4,3.28,5.31
+FL,Orlando,12,0.4,2.68,4.32
+FL,Ormond Beach,12,0.4,2.77,3.63
+KY,Owensboro,12,0.4,1.8,4.93
+MS,Oxford,12,0.4,0.94,4.6
+KY,Paducah,12,0.4,1.06,3.19
+CA,Palm Springs/Rancho Mira,12,0.4,2.22,8.87
+NJ,Paterson,12,0.4,1.64,15.5
+FL,Pensacola,12,0.4,2.36,4.23
+IL,Peoria,12,0.4,2.06,4.08
+MI,Petoskey,12,0.4,2.3,4.14
+PA,Philadelphia,12,0.4,2.54,3.63
+AZ,Phoenix,12,0.4,2.99,3.97
+PA,Pittsburgh,12,0.4,2.4,3.44
+MI,Pontiac,12,0.4,3.26,4.57
+ME,Portland,12,0.4,3.47,5.86
+OR,Portland,12,0.4,3.53,4.73
+RI,Providence,12,0.4,3.98,7.21
+UT,Provo,12,0.4,3.03,4.65
+CO,Pueblo,12,0.4,1.65,12.29
+NC,Raleigh,12,0.4,4.07,6.05
+SD,Rapid City,12,0.4,1.42,5.3
+PA,Reading,12,0.4,2.34,5.7
+CA,Redding,12,0.4,2.75,2.97
+NV,Reno,12,0.4,2.57,2.88
+VA,Richmond,12,0.4,2.62,5.81
+NJ,Ridgewood,12,0.4,3.42,5.77
+VA,Roanoke,12,0.4,2.71,3.11
+MN,Rochester,12,0.4,1.52,2.19
+NY,Rochester,12,0.4,3.5,7.2
+IL,Rockford,12,0.4,2.53,3.51
+GA,Rome,12,0.4,2.71,8.38
+MI,Royal Oak,12,0.4,1.82,3.48
+CA,Sacramento,12,0.4,4.39,5.54
+MI,Saginaw,12,0.4,1.45,4.94
+OR,Salem,12,0.4,4.62,15.3
+CA,Salinas,12,0.4,2.88,4.78
+MD,Salisbury,12,0.4,5.71,9.19
+UT,Salt Lake City,12,0.4,2.36,3.24
+TX,San Angelo,12,0.4,1.09,4.47
+TX,San Antonio,12,0.4,2.43,5.93
+CA,San Bernardino,12,0.4,3.09,5.97
+CA,San Diego,12,0.4,4.23,4.88
+CA,San Francisco,12,0.4,3.09,3.72
+CA,San Jose,12,0.4,4.35,5.77
+CA,San Luis Obispo,12,0.4,2.98,3.97
+CA,San Mateo County,12,0.4,4.1,4.52
+CA,Santa Barbara,12,0.4,4.05,6.11
+CA,Santa Cruz,12,0.4,3.73,22.33
+CA,Santa Rosa,12,0.4,3.7,5.49
+FL,Sarasota,12,0.4,1.9,3.57
+GA,Savannah,12,0.4,3.01,7.67
+PA,Sayre,12,0.4,2.02,3.43
+PA,Scranton,12,0.4,2.23,5.16
+WA,Seattle,12,0.4,4.88,6.79
+LA,Shreveport,12,0.4,1.37,2.89
+IA,Sioux City,12,0.4,1.51,5.17
+SD,Sioux Falls,12,0.4,1.02,7.08
+LA,Slidell,12,0.4,1.24,1.31
+IN,South Bend,12,0.4,2.73,4.64
+SC,Spartanburg,12,0.4,3.01,2.83
+WA,Spokane,12,0.4,2.04,5.48
+AR,Springdale,12,0.4,1.96,3.52
+IL,Springfield,12,0.4,1.54,5
+MA,Springfield,12,0.4,3.35,4.97
+MO,Springfield,12,0.4,2.39,6.45
+MN,St. Cloud,12,0.4,2.48,7.56
+MI,St. Joseph,12,0.4,1.31,7.67
+MO,St. Louis,12,0.4,1.72,2.93
+MN,St. Paul,12,0.4,4.05,10.46
+FL,St. Petersburg,12,0.4,1.65,6.82
+CA,Stockton,12,0.4,3.88,6.59
+AZ,Sun City,12,0.4,2.02,2.19
+NY,Syracuse,12,0.4,2.44,6.51
+WA,Tacoma,12,0.4,4.83,6.05
+MD,Takoma Park,12,0.4,7.33,9.46
+FL,Tallahassee,12,0.4,3.06,7.86
+FL,Tampa,12,0.4,2.51,4.21
+TX,Temple,12,0.4,2.86,4.66
+IN,Terre Haute,12,0.4,1.89,2.3
+AR,Texarkana,12,0.4,1.46,1.97
+OH,Toledo,12,0.4,1.91,2.59
+KS,Topeka,12,0.4,1.65,4.31
+MI,Traverse City,12,0.4,1.87,17.57
+AZ,Tucson,12,0.4,2.33,3.77
+OK,Tulsa,12,0.4,1.67,4.05
+MS,Tupelo,12,0.4,1.05,3.03
+AL,Tuscaloosa,12,0.4,2,3.41
+TX,Tyler,12,0.4,2.34,2.13
+IL,Urbana,12,0.4,2.09,4
+CA,Ventura,12,0.4,6.67,4.22
+TX,Victoria,12,0.4,0.92,3.94
+TX,Waco,12,0.4,2.83,6.67
+DC,Washington,12,0.4,3.76,5.86
+IA,Waterloo,12,0.4,1.39,5.42
+WI,Wausau,12,0.4,2.82,2.09
+NY,White Plains,12,0.4,4.18,3.93
+TX,Wichita Falls,12,0.4,1.45,11.75
+KS,Wichita,12,0.4,1.2,2.86
+PA,Wilkes-Barre,12,0.4,2.14,5.17
+DE,Wilmington,12,0.4,2.94,6.11
+NC,Wilmington,12,0.4,4.35,14.12
+VA,Winchester,12,0.4,2.75,9.68
+NC,Winston-Salem,12,0.4,3,13.8
+MA,Worcester,12,0.4,4.25,9.02
+WA,Yakima,12,0.4,3.06,3.97
+PA,York,12,0.4,3.61,26.25
+OH,Youngstown,12,0.4,2.59,4.73
+OH,Akron,12,0.6,4.43,5.28
+CA,Alameda County,12,0.6,8.1,8.2
+GA,Albany,12,0.6,2.96,5.22
+NY,Albany,12,0.6,3.94,7.02
+NM,Albuquerque,12,0.6,5.09,7.56
+LA,Alexandria,12,0.6,2.31,10
+PA,Allentown,12,0.6,3.19,6.16
+PA,Altoona,12,0.6,4.27,8.15
+TX,Amarillo,12,0.6,2.04,3.73
+AK,Anchorage,12,0.6,4.2,8.47
+MI,Ann Arbor,12,0.6,5.29,8.15
+WI,Appleton,12,0.6,4.81,6.24
+VA,Arlington,12,0.6,7.81,9.38
+NC,Asheville,12,0.6,4.28,7
+GA,Atlanta,12,0.6,6.18,9.98
+GA,Augusta,12,0.6,2.71,4.58
+IL,Aurora,12,0.6,3.49,8.32
+TX,Austin,12,0.6,6.17,8
+CA,Bakersfield,12,0.6,4.99,8.22
+MD,Baltimore,12,0.6,4.44,5.93
+ME,Bangor,12,0.6,3.4,10.71
+LA,Baton Rouge,12,0.6,2.66,5.5
+TX,Beaumont,12,0.6,3.53,7.47
+OR,Bend,12,0.6,4.46,10.59
+MT,Billings,12,0.6,2.14,6.65
+NY,Binghamton,12,0.6,3.33,15.71
+AL,Birmingham,12,0.6,2.7,4.71
+ND,Bismarck,12,0.6,1.82,3.88
+IL,Bloomington,12,0.6,3.28,14
+IL,Blue Island,12,0.6,4.81,5.14
+ID,Boise,12,0.6,3.44,6.61
+MA,Boston,12,0.6,6.58,8.24
+CO,Boulder,12,0.6,3.69,5.37
+FL,Bradenton,12,0.6,3.42,5.45
+CT,Bridgeport,12,0.6,6.06,7.4
+NY,Bronx,12,0.6,5.56,8.21
+TX,Bryan,12,0.6,2.96,5.76
+NY,Buffalo,12,0.6,3.74,10.52
+VT,Burlington,12,0.6,3.72,7.25
+NJ,Camden,12,0.6,4.06,6.95
+OH,Canton,12,0.6,2.97,4.74
+MO,Cape Girardeau,12,0.6,2.15,4.35
+WY,Casper,12,0.6,1.7,6.95
+IA,Cedar Rapids,12,0.6,2.7,9.68
+SC,Charleston,12,0.6,3.95,8.29
+WV,Charleston,12,0.6,2.37,6.29
+NC,Charlotte,12,0.6,5.71,7.15
+VA,Charlottesville,12,0.6,4.64,12.46
+TN,Chattanooga,12,0.6,3.67,8.8
+IL,Chicago,12,0.6,2.64,5.62
+CA,Chico,12,0.6,6.63,9.65
+OH,Cincinnati,12,0.6,3.5,6.24
+FL,Clearwater,12,0.6,2.65,9.84
+OH,Cleveland,12,0.6,2.57,4.82
+CO,Colorado Springs,12,0.6,5.02,9.58
+MO,Columbia,12,0.6,2.6,6.58
+SC,Columbia,12,0.6,3.86,5.8
+GA,Columbus,12,0.6,2.12,7.45
+OH,Columbus,12,0.6,3.57,9.09
+CA,Contra Costa County,12,0.6,5.2,9.3
+TX,Corpus Christi,12,0.6,5.13,10.34
+KY,Covington,12,0.6,4.83,7.38
+TX,Dallas,12,0.6,4.35,7.46
+PA,Danville,12,0.6,3.96,13.27
+IA,Davenport,12,0.6,2.3,5.33
+OH,Dayton,12,0.6,4.64,8.49
+MI,Dearborn,12,0.6,3.46,3.62
+CO,Denver,12,0.6,4.3,6.34
+IA,Des Moines,12,0.6,3.04,10.26
+MI,Detroit,12,0.6,4.11,7.24
+AL,Dothan,12,0.6,2.43,8.15
+IA,Dubuque,12,0.6,2.33,14.5
+MN,Duluth,12,0.6,2.29,3.51
+NC,Durham,12,0.6,4.09,4.13
+NY,East Long Island,12,0.6,12.93,14.6
+TX,El Paso,12,0.6,4.6,14.47
+IL,Elgin,12,0.6,5.29,7.94
+NY,Elmira,12,0.6,2.99,16.93
+OH,Elyria,12,0.6,3.95,8.76
+PA,Erie,12,0.6,3.37,5.94
+OR,Eugene,12,0.6,6.16,8.8
+IL,Evanston,12,0.6,4.53,4.82
+IN,Evansville,12,0.6,2.12,3.1
+WA,Everett,12,0.6,7.08,18.69
+ND,Fargo/Moorhead MN,12,0.6,2.47,8.19
+MI,Flint,12,0.6,3.91,6.71
+SC,Florence,12,0.6,2.52,3.35
+CO,Fort Collins,12,0.6,3.47,17.93
+FL,Fort Lauderdale,12,0.6,3.74,7.84
+FL,Fort Myers,12,0.6,4.42,11.51
+AR,Fort Smith,12,0.6,2.44,4.73
+IN,Fort Wayne,12,0.6,2.63,4.13
+TX,Fort Worth,12,0.6,5.17,8.16
+CA,Fresno,12,0.6,6.89,10.32
+FL,Gainesville,12,0.6,4.15,4.8
+IN,Gary,12,0.6,2.58,3.75
+ND,Grand Forks,12,0.6,1.45,6.5
+CO,Grand Junction,12,0.6,3.54,7.48
+MI,Grand Rapids,12,0.6,4.05,9.64
+MT,Great Falls,12,0.6,1.32,3.93
+CO,Greeley,12,0.6,3.09,9.39
+WI,Green Bay,12,0.6,3.41,8.6
+NC,Greensboro,12,0.6,5.84,9.7
+NC,Greenville,12,0.6,4.5,5.34
+SC,Greenville,12,0.6,3.91,16.46
+MS,Gulfport,12,0.6,2.3,3.53
+NJ,Hackensack,12,0.6,4.13,9.57
+TX,Harlingen,12,0.6,3.24,8.43
+PA,Harrisburg,12,0.6,3.75,12.48
+CT,Hartford,12,0.6,6.68,9.43
+MS,Hattiesburg,12,0.6,1.99,7.17
+NC,Hickory,12,0.6,3.83,8.48
+IL,Hinsdale,12,0.6,3.97,3.82
+HI,Honolulu,12,0.6,5.89,13.96
+LA,Houma,12,0.6,2.15,5.72
+TX,Houston,12,0.6,4.2,6.91
+FL,Hudson,12,0.6,4.71,7.89
+WV,Huntington,12,0.6,3.06,4.02
+AL,Huntsville,12,0.6,3.72,7.73
+ID,Idaho Falls,12,0.6,2.6,6.17
+IN,Indianapolis,12,0.6,2.79,4.96
+IA,Iowa City,12,0.6,2.16,3.89
+MS,Jackson,12,0.6,1.68,4.77
+TN,Jackson,12,0.6,2.56,4.18
+FL,Jacksonville,12,0.6,3.43,6.54
+TN,Johnson City,12,0.6,2.9,5.54
+PA,Johnstown,12,0.6,1.73,6.56
+IL,Joliet,12,0.6,3.23,8.58
+AR,Jonesboro,12,0.6,1.94,7.35
+MO,Joplin,12,0.6,2.36,3.69
+MI,Kalamazoo,12,0.6,3.2,22.38
+MO,Kansas City,12,0.6,3.06,6.07
+OH,Kettering,12,0.6,3.42,7.31
+TN,Kingsport,12,0.6,2.41,4.75
+TN,Knoxville,12,0.6,3.91,13.86
+WI,La Crosse,12,0.6,4.12,5.84
+IN,Lafayette,12,0.6,4.24,12.36
+LA,Lafayette,12,0.6,2.83,4.85
+LA,Lake Charles,12,0.6,2.06,4.23
+FL,Lakeland,12,0.6,3.52,5.18
+PA,Lancaster,12,0.6,4.75,12.08
+MI,Lansing,12,0.6,3.69,4.33
+NV,Las Vegas,12,0.6,6.52,9.39
+OK,Lawton,12,0.6,1.83,4.25
+NH,Lebanon,12,0.6,4.1,5.39
+KY,Lexington,12,0.6,2.4,6.22
+NE,Lincoln,12,0.6,1.89,12.61
+AR,Little Rock,12,0.6,2.35,6.27
+TX,Longview,12,0.6,6.9,7
+CA,Los Angeles,12,0.6,4.9,7.25
+KY,Louisville,12,0.6,3.4,7.55
+TX,Lubbock,12,0.6,2.44,5.62
+VA,Lynchburg,12,0.6,2.98,10.1
+GA,Macon,12,0.6,2.74,8.96
+WI,Madison,12,0.6,4.4,6.53
+NH,Manchester,12,0.6,5.14,12.19
+NY,Manhattan,12,0.6,5.63,5.95
+MI,Marquette,12,0.6,2.46,8.39
+WI,Marshfield,12,0.6,4.48,8.15
+IA,Mason City,12,0.6,1.81,16.17
+TX,McAllen,12,0.6,2.34,3.14
+OR,Medford,12,0.6,4.11,13.6
+IL,Melrose Park,12,0.6,3.81,6.66
+TN,Memphis,12,0.6,2.77,8.7
+MS,Meridian,12,0.6,1.4,7.16
+AZ,Mesa,12,0.6,7.28,9.37
+LA,Metairie,12,0.6,3.79,7.57
+FL,Miami,12,0.6,3.87,8.76
+WI,Milwaukee,12,0.6,3.91,5.71
+MN,Minneapolis,12,0.6,4.34,9.61
+ND,Minot,12,0.6,1.21,11
+MT,Missoula,12,0.6,2.94,7.56
+AL,Mobile,12,0.6,3.92,5.85
+CA,Modesto,12,0.6,6.03,13.64
+LA,Monroe,12,0.6,1.53,5.14
+AL,Montgomery,12,0.6,3.26,5.28
+WV,Morgantown,12,0.6,2.77,7.5
+NJ,Morristown,12,0.6,5.64,13.26
+IN,Muncie,12,0.6,4.2,14.75
+IN,Munster,12,0.6,1.55,5.1
+MI,Muskegon,12,0.6,3.49,4.8
+CA,Napa,12,0.6,6.13,5.02
+TN,Nashville,12,0.6,3.17,6.37
+WI,Neenah,12,0.6,3.07,7
+NJ,New Brunswick,12,0.6,5.69,5.94
+CT,New Haven,12,0.6,8.09,9.07
+LA,New Orleans,12,0.6,2.62,6.27
+NJ,Newark,12,0.6,4.9,5.48
+VA,Newport News,12,0.6,7.45,8.98
+VA,Norfolk,12,0.6,5.4,10.93
+FL,Ocala,12,0.6,7.13,9.65
+TX,Odessa,12,0.6,2.14,6.42
+UT,Ogden,12,0.6,3.91,7.24
+OK,Oklahoma City,12,0.6,2.53,5.91
+WA,Olympia,12,0.6,7.82,11.8
+NE,Omaha,12,0.6,2.42,4.92
+CA,Orange County,12,0.6,4.91,7.97
+FL,Orlando,12,0.6,4.03,6.48
+FL,Ormond Beach,12,0.6,4.16,5.44
+KY,Owensboro,12,0.6,2.7,7.36
+MS,Oxford,12,0.6,1.41,6.93
+KY,Paducah,12,0.6,1.59,4.79
+CA,Palm Springs/Rancho Mira,12,0.6,3.32,13.3
+NJ,Paterson,12,0.6,2.46,23.25
+FL,Pensacola,12,0.6,3.53,6.35
+IL,Peoria,12,0.6,3.09,6.11
+MI,Petoskey,12,0.6,3.45,6.23
+PA,Philadelphia,12,0.6,3.81,5.45
+AZ,Phoenix,12,0.6,4.48,5.95
+PA,Pittsburgh,12,0.6,3.6,5.16
+MI,Pontiac,12,0.6,4.88,6.86
+ME,Portland,12,0.6,5.21,8.78
+OR,Portland,12,0.6,5.3,7.09
+RI,Providence,12,0.6,5.97,10.8
+UT,Provo,12,0.6,4.55,6.98
+CO,Pueblo,12,0.6,2.47,18.43
+NC,Raleigh,12,0.6,6.11,9.07
+SD,Rapid City,12,0.6,2.13,7.95
+PA,Reading,12,0.6,3.51,8.54
+CA,Redding,12,0.6,4.13,4.45
+NV,Reno,12,0.6,3.86,4.32
+VA,Richmond,12,0.6,3.94,8.72
+NJ,Ridgewood,12,0.6,5.13,8.69
+VA,Roanoke,12,0.6,4.06,4.66
+MN,Rochester,12,0.6,2.28,3.29
+NY,Rochester,12,0.6,5.25,10.79
+IL,Rockford,12,0.6,3.79,5.26
+GA,Rome,12,0.6,4.06,12.56
+MI,Royal Oak,12,0.6,2.72,5.24
+CA,Sacramento,12,0.6,6.58,8.32
+MI,Saginaw,12,0.6,2.18,7.4
+OR,Salem,12,0.6,6.92,23
+CA,Salinas,12,0.6,4.31,7.19
+MD,Salisbury,12,0.6,8.57,13.81
+UT,Salt Lake City,12,0.6,3.53,4.86
+TX,San Angelo,12,0.6,1.64,6.76
+TX,San Antonio,12,0.6,3.65,8.9
+CA,San Bernardino,12,0.6,4.63,8.96
+CA,San Diego,12,0.6,6.34,7.32
+CA,San Francisco,12,0.6,4.64,5.58
+CA,San Jose,12,0.6,6.53,8.65
+CA,San Luis Obispo,12,0.6,4.46,5.97
+CA,San Mateo County,12,0.6,6.15,6.78
+CA,Santa Barbara,12,0.6,6.08,9.14
+CA,Santa Cruz,12,0.6,5.6,33.5
+CA,Santa Rosa,12,0.6,5.55,8.24
+FL,Sarasota,12,0.6,2.85,5.35
+GA,Savannah,12,0.6,4.51,11.51
+PA,Sayre,12,0.6,3.03,5.14
+PA,Scranton,12,0.6,3.35,7.77
+WA,Seattle,12,0.6,7.32,10.18
+LA,Shreveport,12,0.6,2.06,4.34
+IA,Sioux City,12,0.6,2.27,7.78
+SD,Sioux Falls,12,0.6,1.54,10.63
+LA,Slidell,12,0.6,1.86,1.96
+IN,South Bend,12,0.6,4.09,6.96
+SC,Spartanburg,12,0.6,4.52,4.23
+WA,Spokane,12,0.6,3.06,8.22
+AR,Springdale,12,0.6,2.94,5.29
+IL,Springfield,12,0.6,2.3,7.49
+MA,Springfield,12,0.6,5.03,7.45
+MO,Springfield,12,0.6,3.58,9.67
+MN,St. Cloud,12,0.6,3.72,11.38
+MI,St. Joseph,12,0.6,1.97,11.44
+MO,St. Louis,12,0.6,2.58,4.4
+MN,St. Paul,12,0.6,6.08,15.67
+FL,St. Petersburg,12,0.6,2.48,10.24
+CA,Stockton,12,0.6,5.82,9.88
+AZ,Sun City,12,0.6,3.02,3.28
+NY,Syracuse,12,0.6,3.66,9.75
+WA,Tacoma,12,0.6,7.23,9.06
+MD,Takoma Park,12,0.6,11,14.19
+FL,Tallahassee,12,0.6,4.59,11.8
+FL,Tampa,12,0.6,3.77,6.32
+TX,Temple,12,0.6,4.28,7
+IN,Terre Haute,12,0.6,2.84,3.43
+AR,Texarkana,12,0.6,2.19,2.95
+OH,Toledo,12,0.6,2.86,3.88
+KS,Topeka,12,0.6,2.48,6.47
+MI,Traverse City,12,0.6,2.8,26.29
+AZ,Tucson,12,0.6,3.49,5.66
+OK,Tulsa,12,0.6,2.51,6.08
+MS,Tupelo,12,0.6,1.58,4.56
+AL,Tuscaloosa,12,0.6,3,5.14
+TX,Tyler,12,0.6,3.51,3.19
+IL,Urbana,12,0.6,3.14,6
+CA,Ventura,12,0.6,10.01,6.34
+TX,Victoria,12,0.6,1.38,5.89
+TX,Waco,12,0.6,4.25,10
+DC,Washington,12,0.6,5.64,8.78
+IA,Waterloo,12,0.6,2.08,8.11
+WI,Wausau,12,0.6,4.22,3.16
+NY,White Plains,12,0.6,6.28,5.91
+TX,Wichita Falls,12,0.6,2.17,17.5
+KS,Wichita,12,0.6,1.8,4.29
+PA,Wilkes-Barre,12,0.6,3.2,7.75
+DE,Wilmington,12,0.6,4.41,9.16
+NC,Wilmington,12,0.6,6.52,21.24
+VA,Winchester,12,0.6,4.12,14.55
+NC,Winston-Salem,12,0.6,4.5,20.7
+MA,Worcester,12,0.6,6.38,13.51
+WA,Yakima,12,0.6,4.59,5.94
+PA,York,12,0.6,5.41,39.25
+OH,Youngstown,12,0.6,3.89,7.09
+OH,Akron,18,0.2,1.92,1.15
+CA,Alameda County,18,0.2,3.52,1.78
+GA,Albany,18,0.2,1.29,1.15
+NY,Albany,18,0.2,1.71,1.52
+NM,Albuquerque,18,0.2,2.21,1.65
+LA,Alexandria,18,0.2,1,2.2
+PA,Allentown,18,0.2,1.39,1.34
+PA,Altoona,18,0.2,1.85,1.78
+TX,Amarillo,18,0.2,0.88,0.81
+AK,Anchorage,18,0.2,1.83,1.84
+MI,Ann Arbor,18,0.2,2.3,1.77
+WI,Appleton,18,0.2,2.09,1.35
+VA,Arlington,18,0.2,3.39,2.04
+NC,Asheville,18,0.2,1.86,1.53
+GA,Atlanta,18,0.2,2.69,2.17
+GA,Augusta,18,0.2,1.18,1
+IL,Aurora,18,0.2,1.52,1.8
+TX,Austin,18,0.2,2.68,1.74
+CA,Bakersfield,18,0.2,2.17,1.78
+MD,Baltimore,18,0.2,1.93,1.29
+ME,Bangor,18,0.2,1.48,2.32
+LA,Baton Rouge,18,0.2,1.16,1.19
+TX,Beaumont,18,0.2,1.54,1.63
+OR,Bend,18,0.2,1.94,2.29
+MT,Billings,18,0.2,0.93,1.45
+NY,Binghamton,18,0.2,1.45,3.41
+AL,Birmingham,18,0.2,1.17,1.02
+ND,Bismarck,18,0.2,0.79,0.84
+IL,Bloomington,18,0.2,1.43,3
+IL,Blue Island,18,0.2,2.09,1.12
+ID,Boise,18,0.2,1.5,1.44
+MA,Boston,18,0.2,2.86,1.79
+CO,Boulder,18,0.2,1.61,1.16
+FL,Bradenton,18,0.2,1.49,1.18
+CT,Bridgeport,18,0.2,2.64,1.62
+NY,Bronx,18,0.2,2.42,1.78
+TX,Bryan,18,0.2,1.29,1.26
+NY,Buffalo,18,0.2,1.62,2.28
+VT,Burlington,18,0.2,1.62,1.57
+NJ,Camden,18,0.2,1.77,1.51
+OH,Canton,18,0.2,1.29,1.03
+MO,Cape Girardeau,18,0.2,0.94,0.95
+WY,Casper,18,0.2,0.74,1.5
+IA,Cedar Rapids,18,0.2,1.18,2.09
+SC,Charleston,18,0.2,1.72,1.8
+WV,Charleston,18,0.2,1.03,1.37
+NC,Charlotte,18,0.2,2.48,1.55
+VA,Charlottesville,18,0.2,2.02,2.71
+TN,Chattanooga,18,0.2,1.59,1.92
+IL,Chicago,18,0.2,1.15,1.22
+CA,Chico,18,0.2,2.88,2.09
+OH,Cincinnati,18,0.2,1.52,1.36
+FL,Clearwater,18,0.2,1.15,2.14
+OH,Cleveland,18,0.2,1.12,1.05
+CO,Colorado Springs,18,0.2,2.18,2.08
+MO,Columbia,18,0.2,1.13,1.43
+SC,Columbia,18,0.2,1.68,1.26
+GA,Columbus,18,0.2,0.92,1.64
+OH,Columbus,18,0.2,1.55,1.97
+CA,Contra Costa County,18,0.2,2.26,2.02
+TX,Corpus Christi,18,0.2,2.23,2.24
+KY,Covington,18,0.2,2.1,1.62
+TX,Dallas,18,0.2,1.89,1.62
+PA,Danville,18,0.2,1.72,2.88
+IA,Davenport,18,0.2,1,1.15
+OH,Dayton,18,0.2,2.02,1.84
+MI,Dearborn,18,0.2,1.5,0.79
+CO,Denver,18,0.2,1.87,1.38
+IA,Des Moines,18,0.2,1.32,2.24
+MI,Detroit,18,0.2,1.79,1.57
+AL,Dothan,18,0.2,1.06,1.76
+IA,Dubuque,18,0.2,1.01,3.13
+MN,Duluth,18,0.2,1,0.77
+NC,Durham,18,0.2,1.78,0.9
+NY,East Long Island,18,0.2,5.62,3.17
+TX,El Paso,18,0.2,2,3.14
+IL,Elgin,18,0.2,2.3,1.73
+NY,Elmira,18,0.2,1.3,3.71
+OH,Elyria,18,0.2,1.71,1.9
+PA,Erie,18,0.2,1.47,1.3
+OR,Eugene,18,0.2,2.68,1.91
+IL,Evanston,18,0.2,1.97,1.05
+IN,Evansville,18,0.2,0.92,0.68
+WA,Everett,18,0.2,3.08,4.08
+ND,Fargo/Moorhead MN,18,0.2,1.07,1.79
+MI,Flint,18,0.2,1.7,1.45
+SC,Florence,18,0.2,1.1,0.73
+CO,Fort Collins,18,0.2,1.51,3.86
+FL,Fort Lauderdale,18,0.2,1.62,1.71
+FL,Fort Myers,18,0.2,1.92,2.51
+AR,Fort Smith,18,0.2,1.06,1.02
+IN,Fort Wayne,18,0.2,1.14,0.9
+TX,Fort Worth,18,0.2,2.25,1.77
+CA,Fresno,18,0.2,2.99,2.25
+FL,Gainesville,18,0.2,1.81,1.05
+IN,Gary,18,0.2,1.12,0.81
+ND,Grand Forks,18,0.2,0.63,1.39
+CO,Grand Junction,18,0.2,1.54,1.64
+MI,Grand Rapids,18,0.2,1.76,2.09
+MT,Great Falls,18,0.2,0.57,0.85
+CO,Greeley,18,0.2,1.34,2.04
+WI,Green Bay,18,0.2,1.48,1.88
+NC,Greensboro,18,0.2,2.54,2.11
+NC,Greenville,18,0.2,1.96,1.16
+SC,Greenville,18,0.2,1.7,3.59
+MS,Gulfport,18,0.2,1,0.78
+NJ,Hackensack,18,0.2,1.8,2.08
+TX,Harlingen,18,0.2,1.41,1.84
+PA,Harrisburg,18,0.2,1.63,2.72
+CT,Hartford,18,0.2,2.9,2.05
+MS,Hattiesburg,18,0.2,0.86,1.57
+NC,Hickory,18,0.2,1.66,1.84
+IL,Hinsdale,18,0.2,1.72,0.83
+HI,Honolulu,18,0.2,2.56,3.04
+LA,Houma,18,0.2,0.93,1.25
+TX,Houston,18,0.2,1.82,1.5
+FL,Hudson,18,0.2,2.05,1.71
+WV,Huntington,18,0.2,1.33,0.88
+AL,Huntsville,18,0.2,1.62,1.68
+ID,Idaho Falls,18,0.2,1.13,1.33
+IN,Indianapolis,18,0.2,1.21,1.08
+IA,Iowa City,18,0.2,0.94,0.84
+MS,Jackson,18,0.2,0.73,1.03
+TN,Jackson,18,0.2,1.11,0.91
+FL,Jacksonville,18,0.2,1.49,1.42
+TN,Johnson City,18,0.2,1.26,1.21
+PA,Johnstown,18,0.2,0.75,1.44
+IL,Joliet,18,0.2,1.4,1.87
+AR,Jonesboro,18,0.2,0.84,1.61
+MO,Joplin,18,0.2,1.03,0.8
+MI,Kalamazoo,18,0.2,1.39,4.86
+MO,Kansas City,18,0.2,1.33,1.32
+OH,Kettering,18,0.2,1.49,1.6
+TN,Kingsport,18,0.2,1.05,1.03
+TN,Knoxville,18,0.2,1.7,3.01
+WI,La Crosse,18,0.2,1.79,1.27
+IN,Lafayette,18,0.2,1.84,2.71
+LA,Lafayette,18,0.2,1.23,1.06
+LA,Lake Charles,18,0.2,0.89,0.91
+FL,Lakeland,18,0.2,1.53,1.12
+PA,Lancaster,18,0.2,2.06,2.63
+MI,Lansing,18,0.2,1.6,0.94
+NV,Las Vegas,18,0.2,2.83,2.04
+OK,Lawton,18,0.2,0.8,0.94
+NH,Lebanon,18,0.2,1.78,1.18
+KY,Lexington,18,0.2,1.04,1.35
+NE,Lincoln,18,0.2,0.82,2.73
+AR,Little Rock,18,0.2,1.02,1.36
+TX,Longview,18,0.2,3,1.52
+CA,Los Angeles,18,0.2,2.13,1.58
+KY,Louisville,18,0.2,1.48,1.64
+TX,Lubbock,18,0.2,1.06,1.22
+VA,Lynchburg,18,0.2,1.29,2.2
+GA,Macon,18,0.2,1.19,1.95
+WI,Madison,18,0.2,1.91,1.42
+NH,Manchester,18,0.2,2.23,2.64
+NY,Manhattan,18,0.2,2.45,1.29
+MI,Marquette,18,0.2,1.07,1.83
+WI,Marshfield,18,0.2,1.95,1.76
+IA,Mason City,18,0.2,0.79,3.5
+TX,McAllen,18,0.2,1.02,0.68
+OR,Medford,18,0.2,1.79,2.96
+IL,Melrose Park,18,0.2,1.66,1.45
+TN,Memphis,18,0.2,1.2,1.89
+MS,Meridian,18,0.2,0.61,1.58
+AZ,Mesa,18,0.2,3.17,2.04
+LA,Metairie,18,0.2,1.65,1.64
+FL,Miami,18,0.2,1.68,1.91
+WI,Milwaukee,18,0.2,1.7,1.24
+MN,Minneapolis,18,0.2,1.89,2.09
+ND,Minot,18,0.2,0.53,2.33
+MT,Missoula,18,0.2,1.28,1.64
+AL,Mobile,18,0.2,1.7,1.27
+CA,Modesto,18,0.2,2.62,2.95
+LA,Monroe,18,0.2,0.66,1.11
+AL,Montgomery,18,0.2,1.41,1.15
+WV,Morgantown,18,0.2,1.2,1.63
+NJ,Morristown,18,0.2,2.45,2.89
+IN,Muncie,18,0.2,1.83,3.25
+IN,Munster,18,0.2,0.68,1.12
+MI,Muskegon,18,0.2,1.52,1.05
+CA,Napa,18,0.2,2.66,1.1
+TN,Nashville,18,0.2,1.38,1.38
+WI,Neenah,18,0.2,1.34,1.52
+NJ,New Brunswick,18,0.2,2.47,1.29
+CT,New Haven,18,0.2,3.52,1.97
+LA,New Orleans,18,0.2,1.14,1.36
+NJ,Newark,18,0.2,2.13,1.19
+VA,Newport News,18,0.2,3.24,1.96
+VA,Norfolk,18,0.2,2.35,2.38
+FL,Ocala,18,0.2,3.1,2.1
+TX,Odessa,18,0.2,0.93,1.39
+UT,Ogden,18,0.2,1.7,1.57
+OK,Oklahoma City,18,0.2,1.1,1.28
+WA,Olympia,18,0.2,3.4,2.56
+NE,Omaha,18,0.2,1.05,1.07
+CA,Orange County,18,0.2,2.14,1.73
+FL,Orlando,18,0.2,1.75,1.41
+FL,Ormond Beach,18,0.2,1.81,1.19
+KY,Owensboro,18,0.2,1.18,1.57
+MS,Oxford,18,0.2,0.61,1.53
+KY,Paducah,18,0.2,0.69,1.04
+CA,Palm Springs/Rancho Mira,18,0.2,1.44,2.91
+NJ,Paterson,18,0.2,1.07,5.08
+FL,Pensacola,18,0.2,1.54,1.38
+IL,Peoria,18,0.2,1.34,1.32
+MI,Petoskey,18,0.2,1.5,1.36
+PA,Philadelphia,18,0.2,1.66,1.18
+AZ,Phoenix,18,0.2,1.95,1.29
+PA,Pittsburgh,18,0.2,1.57,1.12
+MI,Pontiac,18,0.2,2.12,1.49
+ME,Portland,18,0.2,2.26,1.91
+OR,Portland,18,0.2,2.3,1.54
+RI,Providence,18,0.2,2.59,2.35
+UT,Provo,18,0.2,1.98,1.52
+CO,Pueblo,18,0.2,1.08,4
+NC,Raleigh,18,0.2,2.65,1.98
+SD,Rapid City,18,0.2,0.93,1.75
+PA,Reading,18,0.2,1.53,1.86
+CA,Redding,18,0.2,1.8,0.97
+NV,Reno,18,0.2,1.68,0.94
+VA,Richmond,18,0.2,1.71,1.9
+NJ,Ridgewood,18,0.2,2.23,1.89
+VA,Roanoke,18,0.2,1.77,1.02
+MN,Rochester,18,0.2,0.99,0.71
+NY,Rochester,18,0.2,2.28,2.34
+IL,Rockford,18,0.2,1.65,1.15
+GA,Rome,18,0.2,1.76,2.75
+MI,Royal Oak,18,0.2,1.18,1.13
+CA,Sacramento,18,0.2,2.86,1.81
+MI,Saginaw,18,0.2,0.95,1.6
+OR,Salem,18,0.2,3.01,5
+CA,Salinas,18,0.2,1.88,1.57
+MD,Salisbury,18,0.2,3.73,3
+UT,Salt Lake City,18,0.2,1.54,1.06
+TX,San Angelo,18,0.2,0.71,1.47
+TX,San Antonio,18,0.2,1.59,1.94
+CA,San Bernardino,18,0.2,2.01,1.95
+CA,San Diego,18,0.2,2.76,1.59
+CA,San Francisco,18,0.2,2.02,1.21
+CA,San Jose,18,0.2,2.84,1.88
+CA,San Luis Obispo,18,0.2,1.94,1.3
+CA,San Mateo County,18,0.2,2.67,1.48
+CA,Santa Barbara,18,0.2,2.64,2
+CA,Santa Cruz,18,0.2,2.44,7.33
+CA,Santa Rosa,18,0.2,2.42,1.8
+FL,Sarasota,18,0.2,1.24,1.17
+GA,Savannah,18,0.2,1.96,2.51
+PA,Sayre,18,0.2,1.32,1.11
+PA,Scranton,18,0.2,1.46,1.68
+WA,Seattle,18,0.2,3.18,2.22
+LA,Shreveport,18,0.2,0.9,0.95
+IA,Sioux City,18,0.2,0.99,1.7
+SD,Sioux Falls,18,0.2,0.67,2.31
+LA,Slidell,18,0.2,0.81,0.43
+IN,South Bend,18,0.2,1.78,1.51
+SC,Spartanburg,18,0.2,1.96,0.92
+WA,Spokane,18,0.2,1.33,1.78
+AR,Springdale,18,0.2,1.28,1.15
+IL,Springfield,18,0.2,1,1.63
+MA,Springfield,18,0.2,2.19,1.62
+MO,Springfield,18,0.2,1.56,2.1
+MN,St. Cloud,18,0.2,1.62,2.44
+MI,St. Joseph,18,0.2,0.86,2.44
+MO,St. Louis,18,0.2,1.12,0.96
+MN,St. Paul,18,0.2,2.64,3.42
+FL,St. Petersburg,18,0.2,1.08,2.24
+CA,Stockton,18,0.2,2.53,2.15
+AZ,Sun City,18,0.2,1.32,0.72
+NY,Syracuse,18,0.2,1.59,2.12
+WA,Tacoma,18,0.2,3.15,1.97
+MD,Takoma Park,18,0.2,4.78,3.08
+FL,Tallahassee,18,0.2,2,2.56
+FL,Tampa,18,0.2,1.64,1.37
+TX,Temple,18,0.2,1.86,1.52
+IN,Terre Haute,18,0.2,1.23,0.76
+AR,Texarkana,18,0.2,0.95,0.65
+OH,Toledo,18,0.2,1.25,0.84
+KS,Topeka,18,0.2,1.08,1.41
+MI,Traverse City,18,0.2,1.22,5.71
+AZ,Tucson,18,0.2,1.52,1.23
+OK,Tulsa,18,0.2,1.09,1.32
+MS,Tupelo,18,0.2,0.69,0.98
+AL,Tuscaloosa,18,0.2,1.3,1.11
+TX,Tyler,18,0.2,1.53,0.69
+IL,Urbana,18,0.2,1.36,1.3
+CA,Ventura,18,0.2,4.35,1.38
+TX,Victoria,18,0.2,0.6,1.28
+TX,Waco,18,0.2,1.85,2.17
+DC,Washington,18,0.2,2.45,1.91
+IA,Waterloo,18,0.2,0.9,1.74
+WI,Wausau,18,0.2,1.84,0.69
+NY,White Plains,18,0.2,2.73,1.28
+TX,Wichita Falls,18,0.2,0.95,3.75
+KS,Wichita,18,0.2,0.78,0.93
+PA,Wilkes-Barre,18,0.2,1.39,1.67
+DE,Wilmington,18,0.2,1.92,2
+NC,Wilmington,18,0.2,2.84,4.59
+VA,Winchester,18,0.2,1.79,3.18
+NC,Winston-Salem,18,0.2,1.96,4.5
+MA,Worcester,18,0.2,2.77,2.93
+WA,Yakima,18,0.2,2,1.3
+PA,York,18,0.2,2.35,8.5
+OH,Youngstown,18,0.2,1.69,1.55
+OH,Akron,18,0.4,1.92,2.3
+CA,Alameda County,18,0.4,3.52,3.57
+GA,Albany,18,0.4,1.29,2.26
+NY,Albany,18,0.4,1.71,3.05
+NM,Albuquerque,18,0.4,2.21,3.29
+LA,Alexandria,18,0.4,1,4.35
+PA,Allentown,18,0.4,1.39,2.68
+PA,Altoona,18,0.4,1.85,3.56
+TX,Amarillo,18,0.4,0.88,1.62
+AK,Anchorage,18,0.4,1.83,3.67
+MI,Ann Arbor,18,0.4,2.3,3.54
+WI,Appleton,18,0.4,2.09,2.7
+VA,Arlington,18,0.4,3.39,4.08
+NC,Asheville,18,0.4,1.86,3.04
+GA,Atlanta,18,0.4,2.69,4.34
+GA,Augusta,18,0.4,1.18,1.99
+IL,Aurora,18,0.4,1.52,3.6
+TX,Austin,18,0.4,2.68,3.48
+CA,Bakersfield,18,0.4,2.17,3.57
+MD,Baltimore,18,0.4,1.93,2.58
+ME,Bangor,18,0.4,1.48,4.68
+LA,Baton Rouge,18,0.4,1.16,2.39
+TX,Beaumont,18,0.4,1.54,3.26
+OR,Bend,18,0.4,1.94,4.59
+MT,Billings,18,0.4,0.93,2.89
+NY,Binghamton,18,0.4,1.45,6.82
+AL,Birmingham,18,0.4,1.17,2.05
+ND,Bismarck,18,0.4,0.79,1.7
+IL,Bloomington,18,0.4,1.43,6.1
+IL,Blue Island,18,0.4,2.09,2.23
+ID,Boise,18,0.4,1.5,2.87
+MA,Boston,18,0.4,2.86,3.58
+CO,Boulder,18,0.4,1.61,2.33
+FL,Bradenton,18,0.4,1.49,2.37
+CT,Bridgeport,18,0.4,2.64,3.22
+NY,Bronx,18,0.4,2.42,3.57
+TX,Bryan,18,0.4,1.29,2.5
+NY,Buffalo,18,0.4,1.62,4.57
+VT,Burlington,18,0.4,1.62,3.15
+NJ,Camden,18,0.4,1.77,3.02
+OH,Canton,18,0.4,1.29,2.06
+MO,Cape Girardeau,18,0.4,0.94,1.88
+WY,Casper,18,0.4,0.74,3.05
+IA,Cedar Rapids,18,0.4,1.18,4.23
+SC,Charleston,18,0.4,1.72,3.6
+WV,Charleston,18,0.4,1.03,2.73
+NC,Charlotte,18,0.4,2.48,3.11
+VA,Charlottesville,18,0.4,2.02,5.4
+TN,Chattanooga,18,0.4,1.59,3.83
+IL,Chicago,18,0.4,1.15,2.44
+CA,Chico,18,0.4,2.88,4.17
+OH,Cincinnati,18,0.4,1.52,2.71
+FL,Clearwater,18,0.4,1.15,4.27
+OH,Cleveland,18,0.4,1.12,2.1
+CO,Colorado Springs,18,0.4,2.18,4.16
+MO,Columbia,18,0.4,1.13,2.87
+SC,Columbia,18,0.4,1.68,2.52
+GA,Columbus,18,0.4,0.92,3.24
+OH,Columbus,18,0.4,1.55,3.95
+CA,Contra Costa County,18,0.4,2.26,4.05
+TX,Corpus Christi,18,0.4,2.23,4.5
+KY,Covington,18,0.4,2.1,3.21
+TX,Dallas,18,0.4,1.89,3.24
+PA,Danville,18,0.4,1.72,5.76
+IA,Davenport,18,0.4,1,2.32
+OH,Dayton,18,0.4,2.02,3.7
+MI,Dearborn,18,0.4,1.5,1.58
+CO,Denver,18,0.4,1.87,2.76
+IA,Des Moines,18,0.4,1.32,4.46
+MI,Detroit,18,0.4,1.79,3.15
+AL,Dothan,18,0.4,1.06,3.55
+IA,Dubuque,18,0.4,1.01,6.38
+MN,Duluth,18,0.4,1,1.52
+NC,Durham,18,0.4,1.78,1.8
+NY,East Long Island,18,0.4,5.62,6.34
+TX,El Paso,18,0.4,2,6.29
+IL,Elgin,18,0.4,2.3,3.45
+NY,Elmira,18,0.4,1.3,7.36
+OH,Elyria,18,0.4,1.71,3.81
+PA,Erie,18,0.4,1.47,2.58
+OR,Eugene,18,0.4,2.68,3.83
+IL,Evanston,18,0.4,1.97,2.09
+IN,Evansville,18,0.4,0.92,1.34
+WA,Everett,18,0.4,3.08,8.12
+ND,Fargo/Moorhead MN,18,0.4,1.07,3.56
+MI,Flint,18,0.4,1.7,2.91
+SC,Florence,18,0.4,1.1,1.46
+CO,Fort Collins,18,0.4,1.51,7.79
+FL,Fort Lauderdale,18,0.4,1.62,3.41
+FL,Fort Myers,18,0.4,1.92,5
+AR,Fort Smith,18,0.4,1.06,2.05
+IN,Fort Wayne,18,0.4,1.14,1.79
+TX,Fort Worth,18,0.4,2.25,3.55
+CA,Fresno,18,0.4,2.99,4.49
+FL,Gainesville,18,0.4,1.81,2.09
+IN,Gary,18,0.4,1.12,1.63
+ND,Grand Forks,18,0.4,0.63,2.83
+CO,Grand Junction,18,0.4,1.54,3.24
+MI,Grand Rapids,18,0.4,1.76,4.19
+MT,Great Falls,18,0.4,0.57,1.7
+CO,Greeley,18,0.4,1.34,4.07
+WI,Green Bay,18,0.4,1.48,3.74
+NC,Greensboro,18,0.4,2.54,4.21
+NC,Greenville,18,0.4,1.96,2.32
+SC,Greenville,18,0.4,1.7,7.17
+MS,Gulfport,18,0.4,1,1.53
+NJ,Hackensack,18,0.4,1.8,4.16
+TX,Harlingen,18,0.4,1.41,3.66
+PA,Harrisburg,18,0.4,1.63,5.43
+CT,Hartford,18,0.4,2.9,4.1
+MS,Hattiesburg,18,0.4,0.86,3.13
+NC,Hickory,18,0.4,1.66,3.68
+IL,Hinsdale,18,0.4,1.72,1.66
+HI,Honolulu,18,0.4,2.56,6.07
+LA,Houma,18,0.4,0.93,2.5
+TX,Houston,18,0.4,1.82,3
+FL,Hudson,18,0.4,2.05,3.42
+WV,Huntington,18,0.4,1.33,1.75
+AL,Huntsville,18,0.4,1.62,3.36
+ID,Idaho Falls,18,0.4,1.13,2.67
+IN,Indianapolis,18,0.4,1.21,2.15
+IA,Iowa City,18,0.4,0.94,1.69
+MS,Jackson,18,0.4,0.73,2.07
+TN,Jackson,18,0.4,1.11,1.81
+FL,Jacksonville,18,0.4,1.49,2.85
+TN,Johnson City,18,0.4,1.26,2.41
+PA,Johnstown,18,0.4,0.75,2.84
+IL,Joliet,18,0.4,1.4,3.74
+AR,Jonesboro,18,0.4,0.84,3.22
+MO,Joplin,18,0.4,1.03,1.61
+MI,Kalamazoo,18,0.4,1.39,9.71
+MO,Kansas City,18,0.4,1.33,2.64
+OH,Kettering,18,0.4,1.49,3.19
+TN,Kingsport,18,0.4,1.05,2.07
+TN,Knoxville,18,0.4,1.7,6.03
+WI,La Crosse,18,0.4,1.79,2.55
+IN,Lafayette,18,0.4,1.84,5.36
+LA,Lafayette,18,0.4,1.23,2.11
+LA,Lake Charles,18,0.4,0.89,1.84
+FL,Lakeland,18,0.4,1.53,2.25
+PA,Lancaster,18,0.4,2.06,5.25
+MI,Lansing,18,0.4,1.6,1.89
+NV,Las Vegas,18,0.4,2.83,4.08
+OK,Lawton,18,0.4,0.8,1.84
+NH,Lebanon,18,0.4,1.78,2.34
+KY,Lexington,18,0.4,1.04,2.7
+NE,Lincoln,18,0.4,0.82,5.48
+AR,Little Rock,18,0.4,1.02,2.72
+TX,Longview,18,0.4,3,3.05
+CA,Los Angeles,18,0.4,2.13,3.15
+KY,Louisville,18,0.4,1.48,3.28
+TX,Lubbock,18,0.4,1.06,2.45
+VA,Lynchburg,18,0.4,1.29,4.4
+GA,Macon,18,0.4,1.19,3.89
+WI,Madison,18,0.4,1.91,2.83
+NH,Manchester,18,0.4,2.23,5.3
+NY,Manhattan,18,0.4,2.45,2.59
+MI,Marquette,18,0.4,1.07,3.61
+WI,Marshfield,18,0.4,1.95,3.56
+IA,Mason City,18,0.4,0.79,7
+TX,McAllen,18,0.4,1.02,1.37
+OR,Medford,18,0.4,1.79,5.92
+IL,Melrose Park,18,0.4,1.66,2.89
+TN,Memphis,18,0.4,1.2,3.78
+MS,Meridian,18,0.4,0.61,3.11
+AZ,Mesa,18,0.4,3.17,4.07
+LA,Metairie,18,0.4,1.65,3.3
+FL,Miami,18,0.4,1.68,3.81
+WI,Milwaukee,18,0.4,1.7,2.48
+MN,Minneapolis,18,0.4,1.89,4.18
+ND,Minot,18,0.4,0.53,4.78
+MT,Missoula,18,0.4,1.28,3.28
+AL,Mobile,18,0.4,1.7,2.54
+CA,Modesto,18,0.4,2.62,5.93
+LA,Monroe,18,0.4,0.66,2.22
+AL,Montgomery,18,0.4,1.41,2.3
+WV,Morgantown,18,0.4,1.2,3.25
+NJ,Morristown,18,0.4,2.45,5.76
+IN,Muncie,18,0.4,1.83,6.38
+IN,Munster,18,0.4,0.68,2.21
+MI,Muskegon,18,0.4,1.52,2.1
+CA,Napa,18,0.4,2.66,2.2
+TN,Nashville,18,0.4,1.38,2.77
+WI,Neenah,18,0.4,1.34,3.04
+NJ,New Brunswick,18,0.4,2.47,2.59
+CT,New Haven,18,0.4,3.52,3.94
+LA,New Orleans,18,0.4,1.14,2.73
+NJ,Newark,18,0.4,2.13,2.38
+VA,Newport News,18,0.4,3.24,3.91
+VA,Norfolk,18,0.4,2.35,4.76
+FL,Ocala,18,0.4,3.1,4.2
+TX,Odessa,18,0.4,0.93,2.79
+UT,Ogden,18,0.4,1.7,3.14
+OK,Oklahoma City,18,0.4,1.1,2.57
+WA,Olympia,18,0.4,3.4,5.12
+NE,Omaha,18,0.4,1.05,2.14
+CA,Orange County,18,0.4,2.14,3.46
+FL,Orlando,18,0.4,1.75,2.82
+FL,Ormond Beach,18,0.4,1.81,2.37
+KY,Owensboro,18,0.4,1.18,3.21
+MS,Oxford,18,0.4,0.61,3
+KY,Paducah,18,0.4,0.69,2.09
+CA,Palm Springs/Rancho Mira,18,0.4,1.44,5.78
+NJ,Paterson,18,0.4,1.07,10.08
+FL,Pensacola,18,0.4,1.54,2.76
+IL,Peoria,18,0.4,1.34,2.66
+MI,Petoskey,18,0.4,1.5,2.73
+PA,Philadelphia,18,0.4,1.66,2.37
+AZ,Phoenix,18,0.4,1.95,2.59
+PA,Pittsburgh,18,0.4,1.57,2.24
+MI,Pontiac,18,0.4,2.12,2.98
+ME,Portland,18,0.4,2.26,3.82
+OR,Portland,18,0.4,2.3,3.09
+RI,Providence,18,0.4,2.59,4.7
+UT,Provo,18,0.4,1.98,3.04
+CO,Pueblo,18,0.4,1.08,8
+NC,Raleigh,18,0.4,2.65,3.94
+SD,Rapid City,18,0.4,0.93,3.45
+PA,Reading,18,0.4,1.53,3.72
+CA,Redding,18,0.4,1.8,1.93
+NV,Reno,18,0.4,1.68,1.88
+VA,Richmond,18,0.4,1.71,3.79
+NJ,Ridgewood,18,0.4,2.23,3.77
+VA,Roanoke,18,0.4,1.77,2.03
+MN,Rochester,18,0.4,0.99,1.43
+NY,Rochester,18,0.4,2.28,4.69
+IL,Rockford,18,0.4,1.65,2.29
+GA,Rome,18,0.4,1.76,5.5
+MI,Royal Oak,18,0.4,1.18,2.28
+CA,Sacramento,18,0.4,2.86,3.62
+MI,Saginaw,18,0.4,0.95,3.22
+OR,Salem,18,0.4,3.01,10
+CA,Salinas,18,0.4,1.88,3.14
+MD,Salisbury,18,0.4,3.73,6
+UT,Salt Lake City,18,0.4,1.54,2.11
+TX,San Angelo,18,0.4,0.71,2.94
+TX,San Antonio,18,0.4,1.59,3.87
+CA,San Bernardino,18,0.4,2.01,3.9
+CA,San Diego,18,0.4,2.76,3.18
+CA,San Francisco,18,0.4,2.02,2.42
+CA,San Jose,18,0.4,2.84,3.76
+CA,San Luis Obispo,18,0.4,1.94,2.61
+CA,San Mateo County,18,0.4,2.67,2.95
+CA,Santa Barbara,18,0.4,2.64,3.97
+CA,Santa Cruz,18,0.4,2.44,14.67
+CA,Santa Rosa,18,0.4,2.42,3.58
+FL,Sarasota,18,0.4,1.24,2.32
+GA,Savannah,18,0.4,1.96,5
+PA,Sayre,18,0.4,1.32,2.25
+PA,Scranton,18,0.4,1.46,3.39
+WA,Seattle,18,0.4,3.18,4.43
+LA,Shreveport,18,0.4,0.9,1.89
+IA,Sioux City,18,0.4,0.99,3.39
+SD,Sioux Falls,18,0.4,0.67,4.62
+LA,Slidell,18,0.4,0.81,0.86
+IN,South Bend,18,0.4,1.78,3.03
+SC,Spartanburg,18,0.4,1.96,1.85
+WA,Spokane,18,0.4,1.33,3.57
+AR,Springdale,18,0.4,1.28,2.3
+IL,Springfield,18,0.4,1,3.25
+MA,Springfield,18,0.4,2.19,3.25
+MO,Springfield,18,0.4,1.56,4.21
+MN,St. Cloud,18,0.4,1.62,4.94
+MI,St. Joseph,18,0.4,0.86,5
+MO,St. Louis,18,0.4,1.12,1.91
+MN,St. Paul,18,0.4,2.64,6.81
+FL,St. Petersburg,18,0.4,1.08,4.45
+CA,Stockton,18,0.4,2.53,4.29
+AZ,Sun City,18,0.4,1.32,1.43
+NY,Syracuse,18,0.4,1.59,4.25
+WA,Tacoma,18,0.4,3.15,3.95
+MD,Takoma Park,18,0.4,4.78,6.17
+FL,Tallahassee,18,0.4,2,5.14
+FL,Tampa,18,0.4,1.64,2.75
+TX,Temple,18,0.4,1.86,3.04
+IN,Terre Haute,18,0.4,1.23,1.49
+AR,Texarkana,18,0.4,0.95,1.27
+OH,Toledo,18,0.4,1.25,1.69
+KS,Topeka,18,0.4,1.08,2.82
+MI,Traverse City,18,0.4,1.22,11.43
+AZ,Tucson,18,0.4,1.52,2.46
+OK,Tulsa,18,0.4,1.09,2.64
+MS,Tupelo,18,0.4,0.69,1.98
+AL,Tuscaloosa,18,0.4,1.3,2.22
+TX,Tyler,18,0.4,1.53,1.39
+IL,Urbana,18,0.4,1.36,2.61
+CA,Ventura,18,0.4,4.35,2.76
+TX,Victoria,18,0.4,0.6,2.56
+TX,Waco,18,0.4,1.85,4.33
+DC,Washington,18,0.4,2.45,3.82
+IA,Waterloo,18,0.4,0.9,3.53
+WI,Wausau,18,0.4,1.84,1.38
+NY,White Plains,18,0.4,2.73,2.57
+TX,Wichita Falls,18,0.4,0.95,7.63
+KS,Wichita,18,0.4,0.78,1.87
+PA,Wilkes-Barre,18,0.4,1.39,3.38
+DE,Wilmington,18,0.4,1.92,3.98
+NC,Wilmington,18,0.4,2.84,9.24
+VA,Winchester,18,0.4,1.79,6.32
+NC,Winston-Salem,18,0.4,1.96,9
+MA,Worcester,18,0.4,2.77,5.88
+WA,Yakima,18,0.4,2,2.58
+PA,York,18,0.4,2.35,17.13
+OH,Youngstown,18,0.4,1.69,3.09
+OH,Akron,18,0.6,2.89,3.44
+CA,Alameda County,18,0.6,5.28,5.35
+GA,Albany,18,0.6,1.93,3.41
+NY,Albany,18,0.6,2.57,4.58
+NM,Albuquerque,18,0.6,3.32,4.93
+LA,Alexandria,18,0.6,1.5,6.55
+PA,Allentown,18,0.6,2.08,4.01
+PA,Altoona,18,0.6,2.78,5.33
+TX,Amarillo,18,0.6,1.33,2.44
+AK,Anchorage,18,0.6,2.74,5.53
+MI,Ann Arbor,18,0.6,3.45,5.31
+WI,Appleton,18,0.6,3.14,4.08
+VA,Arlington,18,0.6,5.09,6.12
+NC,Asheville,18,0.6,2.79,4.57
+GA,Atlanta,18,0.6,4.03,6.51
+GA,Augusta,18,0.6,1.77,2.99
+IL,Aurora,18,0.6,2.28,5.44
+TX,Austin,18,0.6,4.02,5.22
+CA,Bakersfield,18,0.6,3.25,5.35
+MD,Baltimore,18,0.6,2.9,3.87
+ME,Bangor,18,0.6,2.22,7
+LA,Baton Rouge,18,0.6,1.73,3.58
+TX,Beaumont,18,0.6,2.31,4.86
+OR,Bend,18,0.6,2.91,6.88
+MT,Billings,18,0.6,1.4,4.34
+NY,Binghamton,18,0.6,2.17,10.24
+AL,Birmingham,18,0.6,1.76,3.07
+ND,Bismarck,18,0.6,1.19,2.53
+IL,Bloomington,18,0.6,2.14,9.1
+IL,Blue Island,18,0.6,3.14,3.35
+ID,Boise,18,0.6,2.25,4.32
+MA,Boston,18,0.6,4.29,5.37
+CO,Boulder,18,0.6,2.41,3.51
+FL,Bradenton,18,0.6,2.23,3.55
+CT,Bridgeport,18,0.6,3.95,4.83
+NY,Bronx,18,0.6,3.62,5.36
+TX,Bryan,18,0.6,1.93,3.76
+NY,Buffalo,18,0.6,2.44,6.85
+VT,Burlington,18,0.6,2.43,4.72
+NJ,Camden,18,0.6,2.65,4.53
+OH,Canton,18,0.6,1.94,3.09
+MO,Cape Girardeau,18,0.6,1.4,2.84
+WY,Casper,18,0.6,1.11,4.55
+IA,Cedar Rapids,18,0.6,1.76,6.32
+SC,Charleston,18,0.6,2.57,5.41
+WV,Charleston,18,0.6,1.55,4.1
+NC,Charlotte,18,0.6,3.72,4.66
+VA,Charlottesville,18,0.6,3.02,8.11
+TN,Chattanooga,18,0.6,2.39,5.75
+IL,Chicago,18,0.6,1.72,3.66
+CA,Chico,18,0.6,4.32,6.3
+OH,Cincinnati,18,0.6,2.28,4.08
+FL,Clearwater,18,0.6,1.73,6.41
+OH,Cleveland,18,0.6,1.68,3.15
+CO,Colorado Springs,18,0.6,3.27,6.26
+MO,Columbia,18,0.6,1.69,4.3
+SC,Columbia,18,0.6,2.52,3.78
+GA,Columbus,18,0.6,1.38,4.88
+OH,Columbus,18,0.6,2.33,5.92
+CA,Contra Costa County,18,0.6,3.39,6.06
+TX,Corpus Christi,18,0.6,3.34,6.74
+KY,Covington,18,0.6,3.15,4.82
+TX,Dallas,18,0.6,2.84,4.86
+PA,Danville,18,0.6,2.58,8.64
+IA,Davenport,18,0.6,1.5,3.47
+OH,Dayton,18,0.6,3.03,5.54
+MI,Dearborn,18,0.6,2.26,2.37
+CO,Denver,18,0.6,2.81,4.14
+IA,Des Moines,18,0.6,1.98,6.7
+MI,Detroit,18,0.6,2.68,4.72
+AL,Dothan,18,0.6,1.59,5.3
+IA,Dubuque,18,0.6,1.52,9.5
+MN,Duluth,18,0.6,1.49,2.29
+NC,Durham,18,0.6,2.66,2.69
+NY,East Long Island,18,0.6,8.44,9.52
+TX,El Paso,18,0.6,3,9.43
+IL,Elgin,18,0.6,3.45,5.18
+NY,Elmira,18,0.6,1.95,11
+OH,Elyria,18,0.6,2.57,5.71
+PA,Erie,18,0.6,2.2,3.88
+OR,Eugene,18,0.6,4.02,5.73
+IL,Evanston,18,0.6,2.95,3.15
+IN,Evansville,18,0.6,1.38,2.02
+WA,Everett,18,0.6,4.62,12.19
+ND,Fargo/Moorhead MN,18,0.6,1.61,5.35
+MI,Flint,18,0.6,2.55,4.36
+SC,Florence,18,0.6,1.64,2.19
+CO,Fort Collins,18,0.6,2.26,11.64
+FL,Fort Lauderdale,18,0.6,2.44,5.11
+FL,Fort Myers,18,0.6,2.88,7.51
+AR,Fort Smith,18,0.6,1.59,3.09
+IN,Fort Wayne,18,0.6,1.71,2.69
+TX,Fort Worth,18,0.6,3.37,5.32
+CA,Fresno,18,0.6,4.49,6.74
+FL,Gainesville,18,0.6,2.71,3.14
+IN,Gary,18,0.6,1.68,2.44
+ND,Grand Forks,18,0.6,0.95,4.22
+CO,Grand Junction,18,0.6,2.31,4.88
+MI,Grand Rapids,18,0.6,2.64,6.29
+MT,Great Falls,18,0.6,0.86,2.56
+CO,Greeley,18,0.6,2.02,6.11
+WI,Green Bay,18,0.6,2.22,5.63
+NC,Greensboro,18,0.6,3.81,6.32
+NC,Greenville,18,0.6,2.94,3.48
+SC,Greenville,18,0.6,2.55,10.76
+MS,Gulfport,18,0.6,1.5,2.3
+NJ,Hackensack,18,0.6,2.69,6.24
+TX,Harlingen,18,0.6,2.11,5.5
+PA,Harrisburg,18,0.6,2.45,8.13
+CT,Hartford,18,0.6,4.35,6.16
+MS,Hattiesburg,18,0.6,1.3,4.67
+NC,Hickory,18,0.6,2.5,5.52
+IL,Hinsdale,18,0.6,2.59,2.49
+HI,Honolulu,18,0.6,3.84,9.11
+LA,Houma,18,0.6,1.4,3.72
+TX,Houston,18,0.6,2.74,4.51
+FL,Hudson,18,0.6,3.07,5.16
+WV,Huntington,18,0.6,2,2.61
+AL,Huntsville,18,0.6,2.42,5.03
+ID,Idaho Falls,18,0.6,1.7,4.04
+IN,Indianapolis,18,0.6,1.82,3.23
+IA,Iowa City,18,0.6,1.41,2.55
+MS,Jackson,18,0.6,1.1,3.11
+TN,Jackson,18,0.6,1.67,2.72
+FL,Jacksonville,18,0.6,2.24,4.27
+TN,Johnson City,18,0.6,1.89,3.62
+PA,Johnstown,18,0.6,1.12,4.28
+IL,Joliet,18,0.6,2.1,5.6
+AR,Jonesboro,18,0.6,1.26,4.78
+MO,Joplin,18,0.6,1.54,2.41
+MI,Kalamazoo,18,0.6,2.08,14.62
+MO,Kansas City,18,0.6,2,3.96
+OH,Kettering,18,0.6,2.23,4.76
+TN,Kingsport,18,0.6,1.57,3.09
+TN,Knoxville,18,0.6,2.55,9.04
+WI,La Crosse,18,0.6,2.69,3.8
+IN,Lafayette,18,0.6,2.77,8.07
+LA,Lafayette,18,0.6,1.84,3.16
+LA,Lake Charles,18,0.6,1.34,2.77
+FL,Lakeland,18,0.6,2.3,3.37
+PA,Lancaster,18,0.6,3.1,7.88
+MI,Lansing,18,0.6,2.4,2.83
+NV,Las Vegas,18,0.6,4.25,6.12
+OK,Lawton,18,0.6,1.2,2.78
+NH,Lebanon,18,0.6,2.68,3.52
+KY,Lexington,18,0.6,1.56,4.06
+NE,Lincoln,18,0.6,1.23,8.21
+AR,Little Rock,18,0.6,1.53,4.08
+TX,Longview,18,0.6,4.5,4.57
+CA,Los Angeles,18,0.6,3.2,4.73
+KY,Louisville,18,0.6,2.22,4.92
+TX,Lubbock,18,0.6,1.59,3.66
+VA,Lynchburg,18,0.6,1.94,6.6
+GA,Macon,18,0.6,1.79,5.84
+WI,Madison,18,0.6,2.87,4.26
+NH,Manchester,18,0.6,3.35,7.94
+NY,Manhattan,18,0.6,3.68,3.88
+MI,Marquette,18,0.6,1.61,5.44
+WI,Marshfield,18,0.6,2.92,5.32
+IA,Mason City,18,0.6,1.18,10.5
+TX,McAllen,18,0.6,1.53,2.05
+OR,Medford,18,0.6,2.68,8.88
+IL,Melrose Park,18,0.6,2.48,4.34
+TN,Memphis,18,0.6,1.8,5.67
+MS,Meridian,18,0.6,0.91,4.68
+AZ,Mesa,18,0.6,4.75,6.11
+LA,Metairie,18,0.6,2.47,4.93
+FL,Miami,18,0.6,2.52,5.72
+WI,Milwaukee,18,0.6,2.55,3.72
+MN,Minneapolis,18,0.6,2.83,6.27
+ND,Minot,18,0.6,0.79,7.11
+MT,Missoula,18,0.6,1.92,4.92
+AL,Mobile,18,0.6,2.56,3.81
+CA,Modesto,18,0.6,3.93,8.89
+LA,Monroe,18,0.6,0.99,3.36
+AL,Montgomery,18,0.6,2.12,3.44
+WV,Morgantown,18,0.6,1.81,4.9
+NJ,Morristown,18,0.6,3.68,8.65
+IN,Muncie,18,0.6,2.74,9.63
+IN,Munster,18,0.6,1.01,3.33
+MI,Muskegon,18,0.6,2.28,3.15
+CA,Napa,18,0.6,4,3.27
+TN,Nashville,18,0.6,2.06,4.15
+WI,Neenah,18,0.6,2,4.56
+NJ,New Brunswick,18,0.6,3.71,3.87
+CT,New Haven,18,0.6,5.28,5.92
+LA,New Orleans,18,0.6,1.71,4.09
+NJ,Newark,18,0.6,3.2,3.57
+VA,Newport News,18,0.6,4.86,5.84
+VA,Norfolk,18,0.6,3.52,7.12
+FL,Ocala,18,0.6,4.65,6.29
+TX,Odessa,18,0.6,1.39,4.18
+UT,Ogden,18,0.6,2.55,4.71
+OK,Oklahoma City,18,0.6,1.65,3.85
+WA,Olympia,18,0.6,5.09,7.72
+NE,Omaha,18,0.6,1.58,3.21
+CA,Orange County,18,0.6,3.2,5.19
+FL,Orlando,18,0.6,2.63,4.23
+FL,Ormond Beach,18,0.6,2.72,3.56
+KY,Owensboro,18,0.6,1.77,4.79
+MS,Oxford,18,0.6,0.92,4.53
+KY,Paducah,18,0.6,1.04,3.12
+CA,Palm Springs/Rancho Mira,18,0.6,2.17,8.7
+NJ,Paterson,18,0.6,1.6,15.17
+FL,Pensacola,18,0.6,2.3,4.14
+IL,Peoria,18,0.6,2.01,3.99
+MI,Petoskey,18,0.6,2.25,4.05
+PA,Philadelphia,18,0.6,2.49,3.55
+AZ,Phoenix,18,0.6,2.92,3.88
+PA,Pittsburgh,18,0.6,2.35,3.36
+MI,Pontiac,18,0.6,3.18,4.47
+ME,Portland,18,0.6,3.4,5.73
+OR,Portland,18,0.6,3.46,4.63
+RI,Providence,18,0.6,3.89,7.05
+UT,Provo,18,0.6,2.97,4.56
+CO,Pueblo,18,0.6,1.61,12
+NC,Raleigh,18,0.6,3.98,5.92
+SD,Rapid City,18,0.6,1.39,5.2
+PA,Reading,18,0.6,2.29,5.58
+CA,Redding,18,0.6,2.69,2.9
+NV,Reno,18,0.6,2.52,2.82
+VA,Richmond,18,0.6,2.57,5.69
+NJ,Ridgewood,18,0.6,3.35,5.66
+VA,Roanoke,18,0.6,2.65,3.04
+MN,Rochester,18,0.6,1.49,2.14
+NY,Rochester,18,0.6,3.42,7.05
+IL,Rockford,18,0.6,2.47,3.43
+GA,Rome,18,0.6,2.65,8.19
+MI,Royal Oak,18,0.6,1.78,3.41
+CA,Sacramento,18,0.6,4.29,5.42
+MI,Saginaw,18,0.6,1.42,4.83
+OR,Salem,18,0.6,4.51,15
+CA,Salinas,18,0.6,2.81,4.68
+MD,Salisbury,18,0.6,5.59,9
+UT,Salt Lake City,18,0.6,2.3,3.17
+TX,San Angelo,18,0.6,1.07,4.41
+TX,San Antonio,18,0.6,2.38,5.8
+CA,San Bernardino,18,0.6,3.02,5.84
+CA,San Diego,18,0.6,4.14,4.77
+CA,San Francisco,18,0.6,3.03,3.64
+CA,San Jose,18,0.6,4.26,5.64
+CA,San Luis Obispo,18,0.6,2.91,3.88
+CA,San Mateo County,18,0.6,4.01,4.42
+CA,Santa Barbara,18,0.6,3.96,5.97
+CA,Santa Cruz,18,0.6,3.66,21.83
+CA,Santa Rosa,18,0.6,3.62,5.38
+FL,Sarasota,18,0.6,1.86,3.49
+GA,Savannah,18,0.6,2.94,7.51
+PA,Sayre,18,0.6,1.98,3.36
+PA,Scranton,18,0.6,2.19,5.06
+WA,Seattle,18,0.6,4.77,6.64
+LA,Shreveport,18,0.6,1.34,2.83
+IA,Sioux City,18,0.6,1.48,5.09
+SD,Sioux Falls,18,0.6,1,6.92
+LA,Slidell,18,0.6,1.22,1.29
+IN,South Bend,18,0.6,2.67,4.54
+SC,Spartanburg,18,0.6,2.95,2.77
+WA,Spokane,18,0.6,2,5.36
+AR,Springdale,18,0.6,1.92,3.45
+IL,Springfield,18,0.6,1.5,4.89
+MA,Springfield,18,0.6,3.28,4.86
+MO,Springfield,18,0.6,2.34,6.3
+MN,St. Cloud,18,0.6,2.43,7.38
+MI,St. Joseph,18,0.6,1.29,7.44
+MO,St. Louis,18,0.6,1.68,2.87
+MN,St. Paul,18,0.6,3.96,10.23
+FL,St. Petersburg,18,0.6,1.62,6.67
+CA,Stockton,18,0.6,3.79,6.44
+AZ,Sun City,18,0.6,1.97,2.14
+NY,Syracuse,18,0.6,2.39,6.36
+WA,Tacoma,18,0.6,4.72,5.92
+MD,Takoma Park,18,0.6,7.17,9.25
+FL,Tallahassee,18,0.6,2.99,7.7
+FL,Tampa,18,0.6,2.46,4.12
+TX,Temple,18,0.6,2.79,4.56
+IN,Terre Haute,18,0.6,1.85,2.24
+AR,Texarkana,18,0.6,1.43,1.92
+OH,Toledo,18,0.6,1.87,2.53
+KS,Topeka,18,0.6,1.61,4.2
+MI,Traverse City,18,0.6,1.83,17.14
+AZ,Tucson,18,0.6,2.28,3.69
+OK,Tulsa,18,0.6,1.64,3.96
+MS,Tupelo,18,0.6,1.03,2.97
+AL,Tuscaloosa,18,0.6,1.95,3.35
+TX,Tyler,18,0.6,2.29,2.08
+IL,Urbana,18,0.6,2.05,3.91
+CA,Ventura,18,0.6,6.53,4.14
+TX,Victoria,18,0.6,0.9,3.83
+TX,Waco,18,0.6,2.77,6.5
+DC,Washington,18,0.6,3.68,5.73
+IA,Waterloo,18,0.6,1.36,5.26
+WI,Wausau,18,0.6,2.75,2.04
+NY,White Plains,18,0.6,4.09,3.85
+TX,Wichita Falls,18,0.6,1.42,11.5
+KS,Wichita,18,0.6,1.17,2.8
+PA,Wilkes-Barre,18,0.6,2.09,5.04
+DE,Wilmington,18,0.6,2.88,5.98
+NC,Wilmington,18,0.6,4.25,13.82
+VA,Winchester,18,0.6,2.69,9.5
+NC,Winston-Salem,18,0.6,2.94,13.5
+MA,Worcester,18,0.6,4.16,8.81
+WA,Yakima,18,0.6,2.99,3.88
+PA,York,18,0.6,3.53,25.63
+OH,Youngstown,18,0.6,2.54,4.64
